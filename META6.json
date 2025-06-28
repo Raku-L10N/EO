@@ -1,0 +1,26 @@
+{
+  "auth": "zef:l10n",
+  "authors": [
+    "Liz"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Esperanto localization of Raku",
+  "license": "Artistic-2.0",
+  "name": "L10N::EO",
+  "perl": "6.d",
+  "provides": {
+    "L10N::EO": "lib/L10N/EO.rakumod",
+    "RakuAST::Deparse::L10N::EO": "lib/RakuAST/Deparse/L10N/EO.rakumod"
+  },
+  "resources": [
+  ],
+  "tags": [
+    "LOCALIZATION", "Esperanto"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

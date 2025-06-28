@@ -1,0 +1,11 @@
+#!/usr/bin/env raku
+
+# Executor for the Esperanto localization of the Raku Programming Language
+
+%*ENV<RAKUDO_RAKUAST> = 1;
+%*ENV<RAKUDO_OPT>     = '-ML10N::EO';
+
+my $proc := run $*EXECUTABLE, @*ARGS;
+exit $proc.exitcode;
+
+# vim: expandtab shiftwidth=4
