@@ -17,8 +17,10 @@
   },
   "resources": [
   ],
+  "source-url": "https://github.com/Raku-L10N/EO.git",
   "tags": [
-    "LOCALIZATION", "Esperanto"
+    "LOCALIZATION",
+    "Esperanto"
   ],
   "test-depends": [
   ],
