@@ -77,8 +77,8 @@
 
 # KEY           TRANSLATION
 block-default   defaŭlto
-block-else      alia
-block-elsif     aliase
+block-else      alie
+block-elsif     aliese
 #block-for       for
 block-given     temigi
 block-if        se
