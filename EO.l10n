@@ -76,22 +76,22 @@
 #adverb-rx-x           x
 
 # KEY           TRANSLATION
-#block-default   default
-#block-else      else
-#block-elsif     elsif
+block-default   defaŭlto
+block-else      alia
+block-elsif     aliase
 #block-for       for
-#block-given     given
-#block-if        if
+block-given     temigi
+block-if        se
 #block-loop      loop
-#block-orwith    orwith
+block-orwith    aŭkun
 #block-repeat    repeat
-#block-unless    unless
-#block-until     until
-#block-when      when
-#block-whenever  whenever
-#block-while     while
-#block-with      with
-#block-without   without
+block-unless    kromse
+block-until     ĝis
+block-when      kiam
+block-whenever  kiamajn
+block-while     dum
+block-with      kun
+block-without   sen
 
 # KEY             TRANSLATION
 #constraint-where  where
@@ -377,7 +377,7 @@
 # KEY                   TRANSLATION
 #enum-BigEndian          BigEndian
 #enum-Broken             Broken
-#enum-False              False
+enum-False              Falsa
 #enum-FileChanged        FileChanged
 #enum-FileRenamed        FileRenamed
 #enum-Kept               Kept
@@ -390,7 +390,7 @@
 #enum-SeekFromBeginning  SeekFromBeginning
 #enum-SeekFromCurrent    SeekFromCurrent
 #enum-SeekFromEnd        SeekFromEnd
-#enum-True               True
+enum-True               Vera
 
 # KEY             TRANSLATION
 #infix-(cont)      (cont)
@@ -399,21 +399,21 @@
 #infix-^ff^        ^ff^
 #infix-^fff        ^fff
 #infix-^fff^       ^fff^
-#infix-after       after
-#infix-and         and
-#infix-andthen     andthen
-#infix-before      before
-#infix-but         but
-#infix-cmp         cmp
+infix-after       post
+infix-and         kaj
+infix-andthen     kajposte
+infix-before      antaŭ
+infix-but         sed
+infix-cmp         kmp
 #infix-coll        coll
-#infix-div         div
-#infix-does        does
-#infix-eq          eq
+infix-div         div
+infix-does        faras
+infix-eq          eg
 #infix-ff          ff
 #infix-ff^         ff^
 #infix-fff         fff
 #infix-fff^        fff^
-#infix-gcd         gcd
+infix-gcd         pgkd
 #infix-ge          ge
 #infix-gt          gt
 #infix-lcm         lcm
@@ -443,13 +443,13 @@
 # KEY             TRANSLATION
 #modifier-for      for
 #modifier-given    given
-#modifier-if       if
-#modifier-unless   unless
+modifier-if       se
+modifier-unless   kromse
 #modifier-until    until
-#modifier-when     when
+modifier-when     kiam
 #modifier-while    while
-#modifier-with     with
-#modifier-without  without
+modifier-with     kun
+modifier-without  sen
 
 # KEY        TRANSLATION
 #multi-multi  multi
