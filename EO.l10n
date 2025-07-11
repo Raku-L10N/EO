@@ -79,12 +79,12 @@
 block-default   defaŭlto
 block-else      alie
 block-elsif     aliese
-#block-for       for
+block-for       por
 block-given     donite
 block-if        se
-#block-loop      loop
+block-loop      iteracio
 block-orwith    aŭkun
-#block-repeat    repeat
+block-repeat    ripetu
 block-unless    kromse
 block-until     ĝis
 block-when      kiam
@@ -415,20 +415,20 @@ infix-eq          eg
 #infix-fff^        fff^
 infix-gcd         pgkd
 #infix-ge          ge
-#infix-gt          gt
+infix-gt          supre
 #infix-lcm         lcm
 #infix-le          le
 #infix-leg         leg
-#infix-lt          lt
-#infix-max         max
-#infix-min         min
-#infix-minmax      minmax
+infix-lt          sube
+infix-max         maks
+infix-min         min
+infix-minmax      minmaks
 #infix-mod         mod
 #infix-ne          ne
-#infix-notandthen  notandthen
+infix-notandthen  nekajposte
 #infix-o           o
-#infix-or          or
-#infix-orelse      orelse
+infix-or          aŭ
+infix-orelse      aŭalie
 #infix-unicmp      unicmp
 #infix-x           x
 #infix-X           X
@@ -441,13 +441,13 @@ infix-gcd         pgkd
 #meta-Z  Z
 
 # KEY             TRANSLATION
-#modifier-for      for
-#modifier-given    given
+modifier-for      por
+modifier-given    donite
 modifier-if       se
 modifier-unless   kromse
-#modifier-until    until
+modifier-until    ĝis
 modifier-when     kiam
-#modifier-while    while
+modifier-while    dum
 modifier-with     kun
 modifier-without  sen
 
@@ -686,8 +686,8 @@ modifier-without  sen
 #pragma-worries             worries
 
 # KEY       TRANSLATION
-#prefix-not  not
-#prefix-so   so
+prefix-not  ne
+prefix-so   tiel
 
 # KEY          TRANSLATION
 #quote-lang-m   m
@@ -710,15 +710,15 @@ modifier-without  sen
 #routine-token      token
 
 # KEY           TRANSLATION
-#scope-anon      anon
-#scope-augment   augment
-#scope-constant  constant
+scope-anon      anon
+scope-augment   pliigu
+scope-constant  konstanto
 #scope-has       has
 #scope-HAS       HAS
-#scope-my        my
-#scope-our       our
-#scope-state     state
-#scope-unit      unit
+scope-my        mia
+scope-our       nia
+scope-state     stato
+scope-unit      unuo
 
 # KEY                TRANSLATION
 #stmt-prefix-also     also
