@@ -377,7 +377,7 @@ block-without   sen
 # KEY                   TRANSLATION
 #enum-BigEndian          BigEndian
 #enum-Broken             Broken
-enum-False              Falsa
+enum-False              Malvero
 #enum-FileChanged        FileChanged
 #enum-FileRenamed        FileRenamed
 #enum-Kept               Kept
@@ -390,7 +390,7 @@ enum-False              Falsa
 #enum-SeekFromBeginning  SeekFromBeginning
 #enum-SeekFromCurrent    SeekFromCurrent
 #enum-SeekFromEnd        SeekFromEnd
-enum-True               Vera
+enum-True               Vero
 
 # KEY             TRANSLATION
 #infix-(cont)      (cont)
@@ -415,11 +415,11 @@ infix-eq          eg
 #infix-fff^        fff^
 infix-gcd         pgkd
 #infix-ge          ge
-infix-gt          supre
+#infix-gt          gt
 #infix-lcm         lcm
 #infix-le          le
 #infix-leg         leg
-infix-lt          sube
+#infix-lt          lt
 infix-max         maks
 infix-min         min
 infix-minmax      minmaks
