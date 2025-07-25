@@ -16,4 +16,13 @@ Se ni uzas la adjektivon C<Vera>, multaj esprimoj fariĝas naturaj, kiel ekzempl
 
 Ankaŭ, ekzemple, kiam ĝi estas metita post C<dum>, C<kaj>, Caŭ>
 
+
+=head2 C<provu> vs. C<provi>
+
+Jen malfacila decido. Sed se ni komprenas unu punkton:
+
+    Provu tiun kodblokon!
+
+Ni scias, ke ĝi devas esti B<Imperativa>. B<Imperativo> estas la evidenta trajto de programlingvo.
+
 =end pod

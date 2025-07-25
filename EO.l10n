@@ -734,7 +734,7 @@ stmt-prefix-react     reagi
 #stmt-prefix-sink     sink
 stmt-prefix-start     starti
 stmt-prefix-supply    provizi
-stmt-prefix-try       provi
+stmt-prefix-try       provu
 
 # KEY               TRANSLATION
 #system-ACCEPTS      ACCEPTS
