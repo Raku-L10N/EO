@@ -642,11 +642,11 @@ modifier-without   sen
 #named-year  year
 
 # KEY            TRANSLATION
-#package-class    class
-#package-grammar  grammar
-#package-module   module
-#package-package  package
-#package-role     role
+package-class     klaso
+package-grammar   gramatiko
+package-module    modulo
+package-package   pako
+package-role      rolo
 
 # KEY           TRANSLATION
 #phaser-BEGIN    BEGIN
