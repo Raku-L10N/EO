@@ -649,24 +649,24 @@ package-package   pako
 package-role      rolo
 
 # KEY           TRANSLATION
-#phaser-BEGIN    BEGIN
-#phaser-CATCH    CATCH
+phaser-BEGIN     KOMENCO
+phaser-CATCH     KAPTU
 #phaser-CHECK    CHECK
-#phaser-CLOSE    CLOSE
-#phaser-CONTROL  CONTROL
-#phaser-DOC      DOC
-#phaser-END      END
-#phaser-ENTER    ENTER
-#phaser-FIRST    FIRST
-#phaser-INIT     INIT
+phaser-CLOSE     FERMO
+phaser-CONTROL   KONTROLU
+phaser-DOC       DOK
+phaser-END       FINO
+phaser-ENTER     ENIRO
+phaser-FIRST     UNUA
+phaser-INIT      INITO
 #phaser-KEEP     KEEP
-#phaser-LAST     LAST
-#phaser-LEAVE    LEAVE
-#phaser-NEXT     NEXT
+phaser-LAST      LASTA
+phaser-LEAVE     FORIRO
+phaser-NEXT      PROKSIMA
 #phaser-POST     POST
 #phaser-PRE      PRE
 #phaser-QUIT     QUIT
-#phaser-UNDO     UNDO
+phaser-UNDO      MALFARU
 
 # KEY                      TRANSLATION
 #pragma-dynamic-scope       dynamic-scope
