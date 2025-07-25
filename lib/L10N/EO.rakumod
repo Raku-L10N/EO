@@ -1,7 +1,7 @@
 # This file contains the ……… Slang of the Raku Programming Language
 
 #- start of generated part of localization ------------------------------------
-#- Generated on 2025-07-25T16:59:57+08:00 by update-localization.raku
+#- Generated on 2025-07-25T17:25:36+08:00 by update-localization.raku
 #- PLEASE DON'T CHANGE ANYTHING BELOW THIS LINE
 
 role L10N::EO {
@@ -73,7 +73,7 @@ role L10N::EO {
     token infix-ne { ne}
     token infix-notandthen { notandthen}
     token infix-o { o}
-    token infix-or { or}
+    token infix-or { aŭ}
     token infix-orelse { orelse}
     token infix-unicmp { unicmp}
     token infix-x { x}
@@ -118,7 +118,7 @@ role L10N::EO {
     token phaser-PRE { PRE}
     token phaser-QUIT { QUIT}
     token phaser-UNDO { MALFARU}
-    token prefix-not { not}
+    token prefix-not { ne}
     token prefix-so { so}
     token quote-lang-m { m}
     token quote-lang-ms { ms}

@@ -427,7 +427,7 @@ infix-and          kaj
 #infix-ne          ne
 #infix-notandthen  notandthen
 #infix-o           o
-#infix-or          or
+infix-or           aŭ
 #infix-orelse      orelse
 #infix-unicmp      unicmp
 #infix-x           x
@@ -686,7 +686,7 @@ phaser-UNDO      MALFARU
 #pragma-worries             worries
 
 # KEY       TRANSLATION
-#prefix-not  not
+prefix-not   ne
 #prefix-so   so
 
 # KEY          TRANSLATION
