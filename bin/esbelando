@@ -1,6 +1,6 @@
 #!/usr/bin/env raku
 
-# Executor for the Esperanto localization of the Raku Programming Language
+# Esbelando: Estas bela lando
 
 %*ENV<RAKUDO_RAKUAST> = 1;
 %*ENV<RAKUDO_OPT>     = '-ML10N::EO';

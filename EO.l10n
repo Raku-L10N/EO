@@ -6,8 +6,8 @@
 # See https://github.com/Raku-L10N/L10N/ for more information
 
 # KEY             TRANSLATION
-#adverb-pc-delete  delete
-#adverb-pc-exists  exists
+adverb-pc-delete   forstreku
+adverb-pc-exists   ekzistas
 #adverb-pc-k       k
 #adverb-pc-kv      kv
 #adverb-pc-p       p
@@ -76,25 +76,25 @@
 #adverb-rx-x           x
 
 # KEY           TRANSLATION
-block-default   defaŭlto
-block-else      alie
-block-elsif     aliese
-block-for       por
-block-given     donite
-block-if        se
-block-loop      iteracio
-block-orwith    aŭkun
-block-repeat    ripetu
-block-unless    kromse
-block-until     ĝis
-block-when      kiam
-block-whenever  kiamajn
-block-while     dum
-block-with      kun
-block-without   sen
+block-default    defaŭlte
+block-else       alie
+block-elsif      aliese
+block-for        porĉiu
+block-given      donite
+block-if         se
+block-loop       iteracio
+block-orwith     aŭkun
+block-repeat     ripetu
+block-unless     kromse
+block-until      ĝis
+block-when       kiam
+block-whenever   kiamajn
+block-while      dum
+block-with       kun
+block-without    sen
 
 # KEY             TRANSLATION
-#constraint-where  where
+constraint-where   kie
 
 # KEY                  TRANSLATION
 #core-abs               abs
@@ -113,18 +113,18 @@ block-without   sen
 #core-atomic-fetch-sub  atomic-fetch-sub
 #core-atomic-inc-fetch  atomic-inc-fetch
 #core-atomic-sub-fetch  atomic-sub-fetch
-#core-await             await
+core-await              atendu
 
 # KEY          TRANSLATION
 #core-bag       bag
 #core-bail-out  bail-out
-#core-bless     bless
+core-bless      benas
 
 # KEY              TRANSLATION
 #core-callframe     callframe
 #core-callsame      callsame
 #core-callwith      callwith
-#core-can-ok        can-ok
+core-can-ok         povi-bone
 #core-cas           cas
 #core-categorize    categorize
 #core-ceiling       ceiling
@@ -138,7 +138,7 @@ block-without   sen
 #core-chrs          chrs
 #core-classify      classify
 #core-close         close
-#core-cmp-ok        cmp-ok
+core-cmp-ok         cmp-bone
 #core-codes         codes
 #core-comb          comb
 #core-combinations  combinations
@@ -149,13 +149,13 @@ block-without   sen
 # KEY         TRANSLATION
 #core-decode   decode
 #core-deepmap  deepmap
-#core-defined  defined
+core-defined   difinita
 #core-diag     diag
-#core-die      die
-#core-dies-ok  dies-ok
+core-die       mortu
+core-dies-ok   mortas-bone
 #core-dir      dir
-#core-does-ok  does-ok
-#core-done     done
+core-does-ok   faras-bone
+core-done      farita
 #core-duckmap  duckmap
 
 # KEY               TRANSLATION
@@ -164,9 +164,9 @@ block-without   sen
 #core-encode         encode
 #core-end            end
 #core-ends-with      ends-with
-#core-eval-dies-ok   eval-dies-ok
-#core-eval-lives-ok  eval-lives-ok
-#core-exit           exit
+core-eval-dies-ok   taksi-mortas-bone
+core-eval-lives-ok  taksi-vivas-bone
+core-exit            eliri
 #core-exp            exp
 #core-expmod         expmod
 
@@ -174,7 +174,7 @@ block-without   sen
 #core-fail          fail
 #core-fails-like    fails-like
 #core-fc            fc
-#core-first         first
+core-first          unua
 #core-flat          flat
 #core-flip          flip
 #core-floor         floor
@@ -197,11 +197,11 @@ block-without   sen
 #core-index      index
 #core-indices    indices
 #core-indir      indir
-#core-is         is
-#core-is-approx  is-approx
-#core-is-deeply  is-deeply
-#core-is-prime   is-prime
-#core-isa-ok     isa-ok
+core-is          estas
+#core-is-approx  estas-approx
+#core-is-deeply  estas-deeply
+#core-is-prime   estas-prime
+core-isa-ok      isa-bone
 #core-isnt       isnt
 #core-item       item
 
@@ -214,14 +214,14 @@ block-without   sen
 #core-kv    kv
 
 # KEY          TRANSLATION
-#core-last      last
+core-last       lasta
 #core-lastcall  lastcall
 #core-lc        lc
-#core-like      like
+core-like       simila
 #core-lines     lines
 #core-link      link
 #core-list      list
-#core-lives-ok  lives-ok
+core-lives-ok  vivas-bone
 #core-lsb       lsb
 
 # KEY        TRANSLATION
@@ -243,14 +243,14 @@ block-without   sen
 #core-nextsame    nextsame
 #core-nextwith    nextwith
 #core-nok         nok
-#core-none        none
+core-none         neniu
 #core-not         not
-#core-note        note
+core-note         notu
 
 # KEY      TRANSLATION
-#core-ok    ok
-#core-one   one
-#core-open  open
+core-ok     bone
+core-one    unu
+core-open   malfermi
 #core-ord   ord
 #core-ords  ords
 
@@ -258,14 +258,14 @@ block-without   sen
 #core-pair          pair
 #core-pairs         pairs
 #core-parse-base    parse-base
-#core-pass          pass
+core-pass           pasigu
 #core-permutations  permutations
 #core-pick          pick
-#core-plan          plan
+core-plan           planu
 #core-pop           pop
 #core-prepend       prepend
-#core-print         print
-#core-printf        printf
+core-print          printu
+core-printf         printfu
 #core-proceed       proceed
 #core-prompt        prompt
 #core-push          push
@@ -273,11 +273,11 @@ block-without   sen
 
 # KEY            TRANSLATION
 #core-rand        rand
-#core-redo        redo
+core-redo         refaru
 #core-reduce      reduce
 #core-repeated    repeated
 #core-repl        repl
-#core-return      return
+core-return       resendu
 #core-return-rw   return-rw
 #core-reverse     reverse
 #core-rindex      rindex
@@ -293,7 +293,7 @@ block-without   sen
 #core-samecase     samecase
 #core-samemark     samemark
 #core-samewith     samewith
-#core-say          say
+core-say           diru
 #core-set          set
 #core-shell        shell
 #core-shift        shift
@@ -301,7 +301,7 @@ block-without   sen
 #core-signal       signal
 #core-skip         skip
 #core-skip-rest    skip-rest
-#core-sleep        sleep
+core-sleep         dormu
 #core-sleep-timer  sleep-timer
 #core-sleep-until  sleep-until
 #core-slip         slip
@@ -355,11 +355,11 @@ block-without   sen
 #core-unique    unique
 #core-unival    unival
 #core-univals   univals
-#core-unlike    unlike
+core-unlike     malsimila
 #core-unlink    unlink
 #core-unpolar   unpolar
 #core-unshift   unshift
-#core-use-ok    use-ok
+core-use-ok     usi-bone
 
 # KEY        TRANSLATION
 #core-val     val
@@ -367,7 +367,7 @@ block-without   sen
 #core-values  values
 
 # KEY          TRANSLATION
-#core-warn      warn
+core-warn       averti
 #core-wordcase  wordcase
 #core-words     words
 
@@ -377,7 +377,7 @@ block-without   sen
 # KEY                   TRANSLATION
 #enum-BigEndian          BigEndian
 #enum-Broken             Broken
-enum-False              Malvero
+enum-False               Malvero
 #enum-FileChanged        FileChanged
 #enum-FileRenamed        FileRenamed
 #enum-Kept               Kept
@@ -390,7 +390,7 @@ enum-False              Malvero
 #enum-SeekFromBeginning  SeekFromBeginning
 #enum-SeekFromCurrent    SeekFromCurrent
 #enum-SeekFromEnd        SeekFromEnd
-enum-True               Vero
+enum-True                Vero
 
 # KEY             TRANSLATION
 #infix-(cont)      (cont)
@@ -399,36 +399,37 @@ enum-True               Vero
 #infix-^ff^        ^ff^
 #infix-^fff        ^fff
 #infix-^fff^       ^fff^
-infix-after       post
-infix-and         kaj
-infix-andthen     kajposte
-infix-before      antaŭ
-infix-but         sed
-infix-cmp         kmp
+infix-after        post
+infix-and          kaj
+infix-andthen      kajposte
+infix-before       antaŭ
+infix-but          sed
+infix-cmp          kmp
 #infix-coll        coll
-infix-div         div
-infix-does        faras
-infix-eq          eg
+#infix-div         div
+infix-does         faras
+infix-eq           eg
 #infix-ff          ff
 #infix-ff^         ff^
 #infix-fff         fff
 #infix-fff^        fff^
-infix-gcd         pgkd
+infix-gcd          pgkd
 #infix-ge          ge
 #infix-gt          gt
 #infix-lcm         lcm
 #infix-le          le
 #infix-leg         leg
 #infix-lt          lt
-infix-max         maks
-infix-min         min
-infix-minmax      minmaks
+infix-max          maks
+infix-min          min
+infix-minmax       minmaks
 #infix-mod         mod
 #infix-ne          ne
-infix-notandthen  nekajposte
+infix-notandthen   nekajposte
 #infix-o           o
-infix-or          aŭ
-infix-orelse      aŭalie
+infix-or           aŭ
+infix-orelse       aŭalie
+
 #infix-unicmp      unicmp
 #infix-x           x
 #infix-X           X
@@ -441,19 +442,19 @@ infix-orelse      aŭalie
 #meta-Z  Z
 
 # KEY             TRANSLATION
-modifier-for      por
-modifier-given    donite
-modifier-if       se
-modifier-unless   kromse
-modifier-until    ĝis
-modifier-when     kiam
-modifier-while    dum
-modifier-with     kun
-modifier-without  sen
+modifier-for       porĉiu
+modifier-given     donite
+modifier-if        se
+modifier-unless    kromse
+modifier-until     ĝis
+modifier-when      kiam
+modifier-while     dum
+modifier-with      kun
+modifier-without   sen
 
 # KEY        TRANSLATION
 #multi-multi  multi
-#multi-only   only
+multi-only    nur
 #multi-proto  proto
 
 # KEY           TRANSLATION
@@ -642,31 +643,31 @@ modifier-without  sen
 #named-year  year
 
 # KEY            TRANSLATION
-#package-class    class
-#package-grammar  grammar
-#package-module   module
-#package-package  package
-#package-role     role
+package-class     klaso
+package-grammar   gramatiko
+package-module    modulo
+package-package   pako
+package-role      rolo
 
 # KEY           TRANSLATION
-#phaser-BEGIN    BEGIN
-#phaser-CATCH    CATCH
+phaser-BEGIN     KOMENCO
+phaser-CATCH     KAPTU
 #phaser-CHECK    CHECK
-#phaser-CLOSE    CLOSE
-#phaser-CONTROL  CONTROL
-#phaser-DOC      DOC
-#phaser-END      END
-#phaser-ENTER    ENTER
-#phaser-FIRST    FIRST
-#phaser-INIT     INIT
+phaser-CLOSE     FERMO
+phaser-CONTROL   KONTROLU
+phaser-DOC       DOK
+phaser-END       FINO
+phaser-ENTER     ENIRO
+phaser-FIRST     UNUA
+phaser-INIT      INITO
 #phaser-KEEP     KEEP
-#phaser-LAST     LAST
-#phaser-LEAVE    LEAVE
-#phaser-NEXT     NEXT
+phaser-LAST      LASTA
+phaser-LEAVE     FORIRO
+phaser-NEXT      PROKSIMA
 #phaser-POST     POST
 #phaser-PRE      PRE
 #phaser-QUIT     QUIT
-#phaser-UNDO     UNDO
+phaser-UNDO      MALFARU
 
 # KEY                      TRANSLATION
 #pragma-dynamic-scope       dynamic-scope
@@ -686,8 +687,8 @@ modifier-without  sen
 #pragma-worries             worries
 
 # KEY       TRANSLATION
-prefix-not  ne
-prefix-so   vere
+prefix-not   ne
+prefix-so    vere
 
 # KEY          TRANSLATION
 #quote-lang-m   m
@@ -702,38 +703,38 @@ prefix-so   vere
 #quote-lang-Ss  Ss
 
 # KEY              TRANSLATION
-#routine-method     method
+routine-method      metodo
 #routine-regex      regex
-#routine-rule       rule
-#routine-sub        sub
-#routine-submethod  submethod
-#routine-token      token
+routine-rule        regulo
+routine-sub         procedo
+routine-submethod  submetodo
+routine-token       signo
 
 # KEY           TRANSLATION
-scope-anon      anon
-scope-augment   pliigu
-scope-constant  konstanto
-#scope-has       has
-#scope-HAS       HAS
-scope-my        mia
-scope-our       nia
-scope-state     stato
-scope-unit      unuo
+scope-anon       anonima
+scope-augment    pliigas
+scope-constant   konstanto
+scope-has        havas
+scope-HAS        HAVAS
+scope-my         mia
+scope-our        nia
+scope-state      stato
+scope-unit       unuo
 
 # KEY                TRANSLATION
-#stmt-prefix-also     also
-#stmt-prefix-do       do
-#stmt-prefix-eager    eager
-#stmt-prefix-gather   gather
+stmt-prefix-also      ankaŭ
+stmt-prefix-do        fari
+stmt-prefix-eager     avida
+stmt-prefix-gather    kunveni
 #stmt-prefix-hyper    hyper
-#stmt-prefix-lazy     lazy
-#stmt-prefix-quietly  quietly
-#stmt-prefix-race     race
-#stmt-prefix-react    react
+stmt-prefix-lazy      pigra
+stmt-prefix-quietly   kviete
+stmt-prefix-race     konkursi
+stmt-prefix-react     reagi
 #stmt-prefix-sink     sink
-#stmt-prefix-start    start
-#stmt-prefix-supply   supply
-#stmt-prefix-try      try
+stmt-prefix-start     starti
+stmt-prefix-supply    provizi
+stmt-prefix-try       provi
 
 # KEY               TRANSLATION
 #system-ACCEPTS      ACCEPTS
@@ -750,15 +751,15 @@ scope-unit      unuo
 #term-now      now
 #term-pi       pi
 #term-rand     rand
-#term-self     self
+term-self      mem
 #term-tau      tau
 #term-time     time
 
 # KEY                           TRANSLATION
 #trait-is-built                  built
 #trait-is-copy                   copy
-#trait-is-default                default
-#trait-is-DEPRECATED             DEPRECATED
+trait-is-default                 defaŭlta
+trait-is-DEPRECATED              EVITINDA
 #trait-is-equiv                  equiv
 #trait-is-export                 export
 #trait-is-hidden-from-backtrace  hidden-from-backtrace
@@ -766,30 +767,30 @@ scope-unit      unuo
 #trait-is-implementation-detail  implementation-detail
 #trait-is-looser                 looser
 #trait-is-nodal                  nodal
-#trait-is-pure                   pure
+trait-is-pure                    pura
 #trait-is-raw                    raw
 #trait-is-rw                     rw
 #trait-is-test-assertion         test-assertion
 #trait-is-tighter                tighter
 
 # KEY             TRANSLATION
-#traitmod-does     does
-#traitmod-handles  handles
+traitmod-does      faras
+traitmod-handles   traktas
 #traitmod-hides    hides
-#traitmod-is       is
-#traitmod-of       of
-#traitmod-returns  returns
+traitmod-is        estas
+traitmod-of        de
+traitmod-returns   resendas
 #traitmod-trusts   trusts
 
 # KEY         TRANSLATION
 #typer-enum    enum
-#typer-subset  subset
+typer-subset   subaro
 
 # KEY        TRANSLATION
-#use-import   import
-#use-need     need
+use-import    importas
+use-need      bezonas
 #use-no       no
-#use-require  require
-#use-use      use
+use-require   postulas
+use-use       uzas
 
 # vim: expandtab shiftwidth=4
