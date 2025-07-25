@@ -77,21 +77,21 @@
 
 # KEY           TRANSLATION
 #block-default   default
-#block-else      else
-#block-elsif     elsif
+block-else       alie
+block-elsif      aliese
 #block-for       for
-#block-given     given
-#block-if        if
-#block-loop      loop
-#block-orwith    orwith
-#block-repeat    repeat
-#block-unless    unless
+block-given      donata
+#block-if        se
+block-loop       ciklo
+block-orwith     aliekun
+block-repeat     ripeti
+block-unless     sene
 #block-until     until
-#block-when      when
-#block-whenever  whenever
-#block-while     while
-#block-with      with
-#block-without   without
+block-when       kiam
+block-whenever   kiamajn
+block-while      dum
+block-with       kun
+block-without    sen
 
 # KEY             TRANSLATION
 #constraint-where  where
