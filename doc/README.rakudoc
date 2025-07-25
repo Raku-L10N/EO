@@ -1,8 +1,9 @@
-=begin rakudoc
+=begin pod
 
 =head1 Esbelando
 
-=defn Esbelando
+Esbelando - Estas bela lando.
+
 Parolu al via komputilo en Esperanto
 
 =head1 Instalo
@@ -47,6 +48,6 @@ Copyright 2025 Raku Localization Team
 
 Ĉi tiu biblioteko estas libera programaro; vi povas redistribui ĝin kaj/aŭ modifi ĝin laŭ la Artistic License 2.0
 
-=end rakudoc
+=end pod
 
 # vim: expandtab shiftwidth=4
