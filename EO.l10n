@@ -702,12 +702,12 @@ block-without    sen
 #quote-lang-Ss  Ss
 
 # KEY              TRANSLATION
-#routine-method     method
+routine-method      metodo
 #routine-regex      regex
-#routine-rule       rule
-#routine-sub        sub
-#routine-submethod  submethod
-#routine-token      token
+routine-rule        regulo
+routine-sub         procedo
+routine-submethod  submetodo
+routine-token       signo
 
 # KEY           TRANSLATION
 #scope-anon      anon
