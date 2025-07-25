@@ -3,20 +3,20 @@
 Esbelando
 =========
 
-Esbelando - Estas bela lando.
+Esbelando - Estas bela lando
 
-Parolu al via komputilo en Esperanto
+Parolas al via komputilo en Esperanto.
 
 Instalo
 =======
 
-  * Instali [Rakudo](https://rakudo.org)
+  * Instalu [Rakudo](https://rakudo.org)
 
-  * Instali `L10N::EO` modulo
+  * Instalu `L10N::EO` modulo
 
         $ zef install L10N::EO
 
-UZO
+Uzo
 ===
 
     $ esbelando -e 'diru "Saluton, Esbelando!"'
@@ -31,19 +31,21 @@ se Vera {
 }
 ```
 
-PRISKRIBO
+Priskribo
 =========
 
 La distribuaĵo `L10N::EO` provizas subtenon por Raku en Esperanto. Ĝi instalas efektivigeblan dosieron: `esbelando`, kiu permesas al la uzanto ruli Raku-kodon skribitan en Esperanto.
 
-AŬTOROJ
+Aŭtoroj
 =======
 
   * Aoran Zeng <ccmywish@qq.com>
 
+  * Daniel Mita
+
   * Liz <l10n@raku.org>
 
-KOPIRAJTO KAJ LICENCO
+Kopirajto kaj Licenco
 =====================
 
 Copyright 2025 Raku Localization Team
