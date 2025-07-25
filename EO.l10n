@@ -787,10 +787,10 @@ traitmod-returns   resendas
 typer-subset   subaro
 
 # KEY        TRANSLATION
-use-import    importas
-use-need      bezonas
+use-import    importu
+use-need      bezonu
 #use-no       no
-use-require   postulas
-use-use       uzas
+use-require   postulu
+use-use       uzu
 
 # vim: expandtab shiftwidth=4

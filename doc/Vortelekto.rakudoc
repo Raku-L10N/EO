@@ -25,4 +25,11 @@ Jen malfacila decido. Sed se ni komprenas unu punkton:
 
 Ni scias, ke ĝi devas esti B<Imperativa>. B<Imperativo> estas la evidenta trajto de programlingvo.
 
+
+=head2 C<importu> vs. C<importas>
+
+En Python kaj aliaj lingvoj, ni kutimas importi ian bibliotekojn, do estas facile por ni esprimi ĝin per C<uzas>.
+
+Tamen, ni devas sekvi principon, ke ne B<mi importas> ĉi tiun bibliotekon, sed B<mi diras al la Rakudo-kompililo importi> aron da simboloj en la leksikan amplekson.
+
 =end pod
