@@ -124,7 +124,7 @@ block-without    sen
 #core-callframe     callframe
 #core-callsame      callsame
 #core-callwith      callwith
-#core-can-ok        can-ok
+core-can-ok         povi-bone
 #core-cas           cas
 #core-categorize    categorize
 #core-ceiling       ceiling
@@ -138,7 +138,7 @@ block-without    sen
 #core-chrs          chrs
 #core-classify      classify
 #core-close         close
-#core-cmp-ok        cmp-ok
+core-cmp-ok         cmp-bone
 #core-codes         codes
 #core-comb          comb
 #core-combinations  combinations
@@ -152,9 +152,9 @@ block-without    sen
 #core-defined  defined
 #core-diag     diag
 #core-die      die
-#core-dies-ok  dies-ok
+core-dies-ok   dies-bone
 #core-dir      dir
-#core-does-ok  does-ok
+core-does-ok   faras-bone
 #core-done     done
 #core-duckmap  duckmap
 
@@ -164,8 +164,8 @@ block-without    sen
 #core-encode         encode
 #core-end            end
 #core-ends-with      ends-with
-#core-eval-dies-ok   eval-dies-ok
-#core-eval-lives-ok  eval-lives-ok
+core-eval-dies-ok   eval-dies-bone
+core-eval-lives-ok  eval-lives-bone
 #core-exit           exit
 #core-exp            exp
 #core-expmod         expmod
@@ -221,7 +221,7 @@ block-without    sen
 #core-lines     lines
 #core-link      link
 #core-list      list
-#core-lives-ok  lives-ok
+core-lives-ok  lives-bone
 #core-lsb       lsb
 
 # KEY        TRANSLATION
@@ -248,7 +248,7 @@ block-without    sen
 #core-note        note
 
 # KEY      TRANSLATION
-#core-ok    ok
+core-ok     bone
 #core-one   one
 #core-open  open
 #core-ord   ord
@@ -359,7 +359,7 @@ block-without    sen
 #core-unlink    unlink
 #core-unpolar   unpolar
 #core-unshift   unshift
-#core-use-ok    use-ok
+core-use-ok     usi-bone
 
 # KEY        TRANSLATION
 #core-val     val
