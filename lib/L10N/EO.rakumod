@@ -1,7 +1,7 @@
 # This file contains the ……… Slang of the Raku Programming Language
 
 #- start of generated part of localization ------------------------------------
-#- Generated on 2025-07-25T19:42:23+08:00 by update-localization.raku
+#- Generated on 2025-07-25T23:22:12+08:00 by update-localization.raku
 #- PLEASE DON'T CHANGE ANYTHING BELOW THIS LINE
 
 role L10N::EO {
@@ -137,7 +137,7 @@ role L10N::EO {
     token routine-submethod { submetodo}
     token routine-token { signo}
     token scope-anon { anonima}
-    token scope-augment { pliigas}
+    token scope-augment { etendas}
     token scope-constant { konstanto}
     token scope-has { havas}
     token scope-HAS { HAVAS}
@@ -146,18 +146,18 @@ role L10N::EO {
     token scope-state { stato}
     token scope-unit { unuo}
     token stmt-prefix-also { ankaŭ}
-    token stmt-prefix-do { fari}
+    token stmt-prefix-do { faru}
     token stmt-prefix-eager { avida}
-    token stmt-prefix-gather { kunveni}
+    token stmt-prefix-gather { kunvenas}
     token stmt-prefix-hyper { hyper}
     token stmt-prefix-lazy { pigra}
     token stmt-prefix-quietly { kviete}
-    token stmt-prefix-race { konkursi}
-    token stmt-prefix-react { reagi}
+    token stmt-prefix-race { konkursu}
+    token stmt-prefix-react { reagas}
     token stmt-prefix-sink { sink}
-    token stmt-prefix-start { starti}
-    token stmt-prefix-supply { provizi}
-    token stmt-prefix-try { provi}
+    token stmt-prefix-start { komencu}
+    token stmt-prefix-supply { provizas}
+    token stmt-prefix-try { provu}
     token term-nano { nano}
     token term-now { now}
     token term-pi { pi}
@@ -180,7 +180,7 @@ role L10N::EO {
     token use-require { postulas}
     token use-use { uzas}
     method core2ast {
-        my constant %mapping = "atendu", "await", "benas", "bless", "povi-bone", "can-ok", "cmp-bone", "cmp-ok", "difinita", "defined", "mortu", "die", "mortas-bone", "dies-ok", "faras-bone", "does-ok", "farita", "done", "taksi-mortas-bone", "eval-dies-ok", "taksi-vivas-bone", "eval-lives-ok", "eliri", "exit", "unua", "first", "estas", "is", "isa-bone", "isa-ok", "lasta", "last", "simila", "like", "vivas-bone", "lives-ok", "neniu", "none", "notu", "note", "bone", "ok", "unu", "one", "malfermi", "open", "pasigu", "pass", "planu", "plan", "printu", "print", "printfu", "printf", "refaru", "redo", "resendu", "return", "diru", "say", "dormu", "sleep", "malsimila", "unlike", "usi-bone", "use-ok", "averti", "warn";
+        my constant %mapping = "atendu", "await", "benu", "bless", "povas-bone", "can-ok", "kmp-bone", "cmp-ok", "difinita", "defined", "mortu", "die", "mortas-bone", "dies-ok", "faras-bone", "does-ok", "farita", "done", "taksi-mortas-bone", "eval-dies-ok", "taksi-vivas-bone", "eval-lives-ok", "eliru", "exit", "unua", "first", "estas", "is", "isa-bone", "isa-ok", "lasta", "last", "simila", "like", "vivas-bone", "lives-ok", "neniu", "none", "notu", "note", "bone", "ok", "unu", "one", "malfermu", "open", "pasigu", "pass", "planas", "plan", "printu", "print", "printfu", "printf", "refaru", "redo", "resendu", "return", "diru", "say", "dormu", "sleep", "malsimila", "unlike", "usas-bone", "use-ok", "avertu", "warn";
         my $ast := self.ast;
         my $name := $ast ?? $ast.simple-identifier !! self.Str;
         if %mapping{$name} -> $original {
