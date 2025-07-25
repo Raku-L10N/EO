@@ -3,11 +3,11 @@
 Esbelando
 =========
 
-**Esbelando**
+Esbelando - Estas bela lando.
 
 Parolu al via komputilo en Esperanto
 
-INSTALO
+Instalo
 =======
 
   * Instali [Rakudo](https://rakudo.org)
@@ -19,11 +19,11 @@ INSTALO
 UZO
 ===
 
-    $ esbelando -e 'diru "Saluton, Esbelando!"';'
+    $ esbelando -e 'diru "Saluton, Esbelando!"'
 
 ```raku
 se Vera {
-  for 1..3 -> $kvanto {
+  porĉiu 1..3 -> $kvanto {
     diru "{$kvanto}. ：Saluton，Esbelando！";
   }
 } alie {
