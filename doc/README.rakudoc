@@ -1,4 +1,4 @@
-=begin pod
+=begin rakudoc
 
 =head1 Esbelando
 
@@ -24,7 +24,7 @@ $ esbelando -e 'diru "Saluton, Esbelando!"';'
 
 =begin code :lang<raku>
 se Vera {
-  for 1..3 -> $kvanto {
+  porĉiu 1..3 -> $kvanto {
     diru "{$kvanto}. ：Saluton，Esbelando！";
   }
 } alie {
@@ -47,6 +47,6 @@ Copyright 2025 Raku Localization Team
 
 Ĉi tiu biblioteko estas libera programaro; vi povas redistribui ĝin kaj/aŭ modifi ĝin laŭ la Artistic License 2.0
 
-=end pod
+=end rakudoc
 
 # vim: expandtab shiftwidth=4
