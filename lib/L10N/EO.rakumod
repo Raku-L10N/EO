@@ -1,21 +1,21 @@
 # This file contains the ……… Slang of the Raku Programming Language
 
 #- start of generated part of localization ------------------------------------
-#- Generated on 2025-07-25T17:25:36+08:00 by update-localization.raku
+#- Generated on 2025-07-25T19:42:23+08:00 by update-localization.raku
 #- PLEASE DON'T CHANGE ANYTHING BELOW THIS LINE
 
 role L10N::EO {
     use experimental :rakuast;
-    token block-default { defaŭlta}
+    token block-default { defaŭlte}
     token block-else { alie}
     token block-elsif { aliese}
     token block-for { porĉiu}
-    token block-given { donata}
+    token block-given { donite}
     token block-if { se}
-    token block-loop { ciklo}
-    token block-orwith { aliekun}
+    token block-loop { iteracio}
+    token block-orwith { aŭkun}
     token block-repeat { ripetu}
-    token block-unless { sene}
+    token block-unless { kromse}
     token block-until { ĝis}
     token block-when { kiam}
     token block-whenever { kiamajn}
@@ -45,36 +45,36 @@ role L10N::EO {
     token infix-cffc { "^ff^"}
     token infix-cfff { "^fff"}
     token infix-cfffc { "^fff^"}
-    token infix-after { after}
+    token infix-after { post}
     token infix-and { kaj}
-    token infix-andthen { andthen}
-    token infix-before { before}
-    token infix-but { but}
-    token infix-cmp { cmp}
+    token infix-andthen { kajposte}
+    token infix-before { antaŭ}
+    token infix-but { sed}
+    token infix-cmp { kmp}
     token infix-coll { coll}
     token infix-div { div}
-    token infix-does { does}
-    token infix-eq { eq}
+    token infix-does { faras}
+    token infix-eq { eg}
     token infix-ff { ff}
     token infix-ffc { "ff^"}
     token infix-fff { fff}
     token infix-fffc { "fff^"}
-    token infix-gcd { gcd}
+    token infix-gcd { pgkd}
     token infix-ge { ge}
     token infix-gt { gt}
     token infix-lcm { lcm}
     token infix-le { le}
     token infix-leg { leg}
     token infix-lt { lt}
-    token infix-max { max}
+    token infix-max { maks}
     token infix-min { min}
-    token infix-minmax { minmax}
+    token infix-minmax { minmaks}
     token infix-mod { mod}
     token infix-ne { ne}
-    token infix-notandthen { notandthen}
+    token infix-notandthen { nekajposte}
     token infix-o { o}
     token infix-or { aŭ}
-    token infix-orelse { orelse}
+    token infix-orelse { aŭalie}
     token infix-unicmp { unicmp}
     token infix-x { x}
     token infix-X { X}
@@ -84,9 +84,9 @@ role L10N::EO {
     token meta-X { X}
     token meta-Z { Z}
     token modifier-for { porĉiu}
-    token modifier-given { donata}
+    token modifier-given { donite}
     token modifier-if { se}
-    token modifier-unless { sene}
+    token modifier-unless { kromse}
     token modifier-until { ĝis}
     token modifier-when { kiam}
     token modifier-while { dum}
@@ -119,7 +119,7 @@ role L10N::EO {
     token phaser-QUIT { QUIT}
     token phaser-UNDO { MALFARU}
     token prefix-not { ne}
-    token prefix-so { so}
+    token prefix-so { vere}
     token quote-lang-m { m}
     token quote-lang-ms { ms}
     token quote-lang-q { q}
@@ -137,10 +137,10 @@ role L10N::EO {
     token routine-submethod { submetodo}
     token routine-token { signo}
     token scope-anon { anonima}
-    token scope-augment { pliigi}
+    token scope-augment { pliigas}
     token scope-constant { konstanto}
-    token scope-has { havi}
-    token scope-HAS { HAVI}
+    token scope-has { havas}
+    token scope-HAS { HAVAS}
     token scope-my { mia}
     token scope-our { nia}
     token scope-state { stato}
