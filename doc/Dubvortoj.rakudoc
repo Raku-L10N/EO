@@ -1,4 +1,6 @@
-=begin rakudoc
+=begin pod
+
+=head1 Dubvortoj
 
 =head2 Regex
 
@@ -16,4 +18,4 @@ Se tradukite, ĉu ĝi estu tradukita kiel C<listigo> aŭ C<specifido>?
 
 Ĉi tiun vorton malfacilas traduki, kaj mi ankaŭ ne pensas, ke ĝi estas tiel intuicia en la Angla.
 
-=end rakudoc
+=end pod
