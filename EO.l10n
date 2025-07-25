@@ -722,18 +722,18 @@ scope-unit       unuo
 
 # KEY                TRANSLATION
 #stmt-prefix-also     also
-#stmt-prefix-do       do
-#stmt-prefix-eager    eager
-#stmt-prefix-gather   gather
+stmt-prefix-do        fari
+stmt-prefix-eager     avida
+stmt-prefix-gather    kunveni
 #stmt-prefix-hyper    hyper
-#stmt-prefix-lazy     lazy
-#stmt-prefix-quietly  quietly
-#stmt-prefix-race     race
-#stmt-prefix-react    react
+stmt-prefix-lazy      pigra
+stmt-prefix-quietly   kviete
+stmt-prefix-race     konkursi
+stmt-prefix-react     reagi
 #stmt-prefix-sink     sink
-#stmt-prefix-start    start
-#stmt-prefix-supply   supply
-#stmt-prefix-try      try
+stmt-prefix-start     starti
+stmt-prefix-supply    provizi
+stmt-prefix-try       provi
 
 # KEY               TRANSLATION
 #system-ACCEPTS      ACCEPTS
