@@ -1,7 +1,7 @@
 se ne Malvera {
   se 'ab' ne 'ab' {
-    diru "Bone";
+    diru "Malbone";
   } alie {
-    notu "Malbone";
+    notu "Bone";
   }
 }
