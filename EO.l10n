@@ -76,16 +76,16 @@ adverb-pc-exists   ekzistas
 #adverb-rx-x           x
 
 # KEY           TRANSLATION
-block-default    defaŭlta
+block-default    defaŭlte
 block-else       alie
 block-elsif      aliese
 block-for        porĉiu
-block-given      donata
+block-given      donite
 block-if         se
-block-loop       ciklo
-block-orwith     aliekun
+block-loop       iteracio
+block-orwith     aŭkun
 block-repeat     ripetu
-block-unless     sene
+block-unless     kromse
 block-until      ĝis
 block-when       kiam
 block-whenever   kiamajn
@@ -377,7 +377,7 @@ core-warn       averti
 # KEY                   TRANSLATION
 #enum-BigEndian          BigEndian
 #enum-Broken             Broken
-enum-False               Malvera
+enum-False               Malvero
 #enum-FileChanged        FileChanged
 #enum-FileRenamed        FileRenamed
 #enum-Kept               Kept
@@ -390,7 +390,7 @@ enum-False               Malvera
 #enum-SeekFromBeginning  SeekFromBeginning
 #enum-SeekFromCurrent    SeekFromCurrent
 #enum-SeekFromEnd        SeekFromEnd
-enum-True                Vera
+enum-True                Vero
 
 # KEY             TRANSLATION
 #infix-(cont)      (cont)
@@ -399,36 +399,37 @@ enum-True                Vera
 #infix-^ff^        ^ff^
 #infix-^fff        ^fff
 #infix-^fff^       ^fff^
-#infix-after       after
+infix-after        post
 infix-and          kaj
-#infix-andthen     andthen
-#infix-before      before
-#infix-but         but
-#infix-cmp         cmp
+infix-andthen      kajposte
+infix-before       antaŭ
+infix-but          sed
+infix-cmp          kmp
 #infix-coll        coll
 #infix-div         div
-#infix-does        does
-#infix-eq          eq
+infix-does         faras
+infix-eq           eg
 #infix-ff          ff
 #infix-ff^         ff^
 #infix-fff         fff
 #infix-fff^        fff^
-#infix-gcd         gcd
+infix-gcd          pgkd
 #infix-ge          ge
 #infix-gt          gt
 #infix-lcm         lcm
 #infix-le          le
 #infix-leg         leg
 #infix-lt          lt
-#infix-max         max
-#infix-min         min
-#infix-minmax      minmax
+infix-max          maks
+infix-min          min
+infix-minmax       minmaks
 #infix-mod         mod
 #infix-ne          ne
-#infix-notandthen  notandthen
+infix-notandthen   nekajposte
 #infix-o           o
 infix-or           aŭ
-#infix-orelse      orelse
+infix-orelse       aŭalie
+
 #infix-unicmp      unicmp
 #infix-x           x
 #infix-X           X
@@ -442,9 +443,9 @@ infix-or           aŭ
 
 # KEY             TRANSLATION
 modifier-for       porĉiu
-modifier-given     donata
+modifier-given     donite
 modifier-if        se
-modifier-unless    sene
+modifier-unless    kromse
 modifier-until     ĝis
 modifier-when      kiam
 modifier-while     dum
@@ -687,7 +688,7 @@ phaser-UNDO      MALFARU
 
 # KEY       TRANSLATION
 prefix-not   ne
-#prefix-so   so
+prefix-so    vere
 
 # KEY          TRANSLATION
 #quote-lang-m   m
@@ -711,10 +712,10 @@ routine-token       signo
 
 # KEY           TRANSLATION
 scope-anon       anonima
-scope-augment    pliigi
+scope-augment    pliigas
 scope-constant   konstanto
-scope-has        havi
-scope-HAS        HAVI
+scope-has        havas
+scope-HAS        HAVAS
 scope-my         mia
 scope-our        nia
 scope-state      stato
