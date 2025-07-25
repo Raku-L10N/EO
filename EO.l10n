@@ -710,15 +710,15 @@ routine-submethod  submetodo
 routine-token       signo
 
 # KEY           TRANSLATION
-#scope-anon      anon
-#scope-augment   augment
-#scope-constant  constant
-#scope-has       has
-#scope-HAS       HAS
-#scope-my        my
-#scope-our       our
-#scope-state     state
-#scope-unit      unit
+scope-anon       anonima
+scope-augment    pliigi
+scope-constant   konstanto
+scope-has        havi
+scope-HAS        HAVI
+scope-my         mia
+scope-our        nia
+scope-state      stato
+scope-unit       unuo
 
 # KEY                TRANSLATION
 #stmt-prefix-also     also
