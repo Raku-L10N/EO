@@ -442,14 +442,14 @@ core-use-ok     usi-bone
 
 # KEY             TRANSLATION
 #modifier-for      for
-#modifier-given    given
-#modifier-if       if
-#modifier-unless   unless
+modifier-given     donata
+modifier-if        se
+modifier-unless    sene
 #modifier-until    until
-#modifier-when     when
-#modifier-while    while
-#modifier-with     with
-#modifier-without  without
+modifier-when      kiam
+modifier-while     dum
+modifier-with      kun
+modifier-without   sen
 
 # KEY        TRANSLATION
 #multi-multi  multi
