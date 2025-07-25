@@ -723,17 +723,17 @@ scope-unit       unuo
 
 # KEY                TRANSLATION
 stmt-prefix-also      ankaŭ
-stmt-prefix-do        fari
+stmt-prefix-do        faru
 stmt-prefix-eager     avida
-stmt-prefix-gather    kunveni
+stmt-prefix-gather    kunvenas
 #stmt-prefix-hyper    hyper
 stmt-prefix-lazy      pigra
 stmt-prefix-quietly   kviete
-stmt-prefix-race     konkursi
-stmt-prefix-react     reagi
+stmt-prefix-race     konkursu
+stmt-prefix-react     reagas
 #stmt-prefix-sink     sink
-stmt-prefix-start     starti
-stmt-prefix-supply    provizi
+stmt-prefix-start     komencu
+stmt-prefix-supply    provizas
 stmt-prefix-try       provu
 
 # KEY               TRANSLATION
