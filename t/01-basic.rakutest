@@ -2,7 +2,7 @@ use Test;
 plan 1;
 
 my $ast := Q:to/CODE/.AST("EO");
-# please fill in a code example in the EO localization
+diru "Saluton, mondo!";
 CODE
 $ast.EVAL;
 
