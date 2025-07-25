@@ -786,10 +786,10 @@ traitmod-returns   resendas
 #typer-subset  subset
 
 # KEY        TRANSLATION
-use-import    importi
-use-need      bezoni
+use-import    importas
+use-need      bezonas
 #use-no       no
-use-require   postuli
-use-use       uzi
+use-require   postulas
+use-use       uzas
 
 # vim: expandtab shiftwidth=4
