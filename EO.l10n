@@ -6,8 +6,8 @@
 # See https://github.com/Raku-L10N/L10N/ for more information
 
 # KEY             TRANSLATION
-#adverb-pc-delete  delete
-#adverb-pc-exists  exists
+adverb-pc-delete   forstreku
+adverb-pc-exists   ekzistas
 #adverb-pc-k       k
 #adverb-pc-kv      kv
 #adverb-pc-p       p
@@ -84,7 +84,7 @@ block-given      donata
 #block-if        se
 block-loop       ciklo
 block-orwith     aliekun
-block-repeat     ripeti
+block-repeat     ripetu
 block-unless     sene
 #block-until     until
 block-when       kiam
@@ -94,7 +94,7 @@ block-with       kun
 block-without    sen
 
 # KEY             TRANSLATION
-#constraint-where  where
+constraint-where   kie
 
 # KEY                  TRANSLATION
 #core-abs               abs
@@ -113,12 +113,12 @@ block-without    sen
 #core-atomic-fetch-sub  atomic-fetch-sub
 #core-atomic-inc-fetch  atomic-inc-fetch
 #core-atomic-sub-fetch  atomic-sub-fetch
-#core-await             await
+core-await              atendu
 
 # KEY          TRANSLATION
 #core-bag       bag
 #core-bail-out  bail-out
-#core-bless     bless
+core-bless      benas
 
 # KEY              TRANSLATION
 #core-callframe     callframe
@@ -149,13 +149,13 @@ core-cmp-ok         cmp-bone
 # KEY         TRANSLATION
 #core-decode   decode
 #core-deepmap  deepmap
-#core-defined  defined
+core-defined   difinita
 #core-diag     diag
-#core-die      die
-core-dies-ok   dies-bone
+core-die       mortu
+core-dies-ok   mortas-bone
 #core-dir      dir
 core-does-ok   faras-bone
-#core-done     done
+core-done      farita
 #core-duckmap  duckmap
 
 # KEY               TRANSLATION
@@ -164,9 +164,9 @@ core-does-ok   faras-bone
 #core-encode         encode
 #core-end            end
 #core-ends-with      ends-with
-core-eval-dies-ok   eval-dies-bone
-core-eval-lives-ok  eval-lives-bone
-#core-exit           exit
+core-eval-dies-ok   taksi-mortas-bone
+core-eval-lives-ok  taksi-vivas-bone
+core-exit            eliri
 #core-exp            exp
 #core-expmod         expmod
 
@@ -174,7 +174,7 @@ core-eval-lives-ok  eval-lives-bone
 #core-fail          fail
 #core-fails-like    fails-like
 #core-fc            fc
-#core-first         first
+core-first          unua
 #core-flat          flat
 #core-flip          flip
 #core-floor         floor
@@ -197,11 +197,11 @@ core-eval-lives-ok  eval-lives-bone
 #core-index      index
 #core-indices    indices
 #core-indir      indir
-#core-is         is
-#core-is-approx  is-approx
-#core-is-deeply  is-deeply
-#core-is-prime   is-prime
-#core-isa-ok     isa-ok
+core-is          estas
+#core-is-approx  estas-approx
+#core-is-deeply  estas-deeply
+#core-is-prime   estas-prime
+core-isa-ok      isa-bone
 #core-isnt       isnt
 #core-item       item
 
@@ -214,14 +214,14 @@ core-eval-lives-ok  eval-lives-bone
 #core-kv    kv
 
 # KEY          TRANSLATION
-#core-last      last
+core-last       lasta
 #core-lastcall  lastcall
 #core-lc        lc
-#core-like      like
+core-like       simila
 #core-lines     lines
 #core-link      link
 #core-list      list
-core-lives-ok  lives-bone
+core-lives-ok  vivas-bone
 #core-lsb       lsb
 
 # KEY        TRANSLATION
@@ -243,14 +243,14 @@ core-lives-ok  lives-bone
 #core-nextsame    nextsame
 #core-nextwith    nextwith
 #core-nok         nok
-#core-none        none
+core-none         neniu
 #core-not         not
-#core-note        note
+core-note         notu
 
 # KEY      TRANSLATION
 core-ok     bone
-#core-one   one
-#core-open  open
+core-one    unu
+core-open   malfermi
 #core-ord   ord
 #core-ords  ords
 
@@ -258,14 +258,14 @@ core-ok     bone
 #core-pair          pair
 #core-pairs         pairs
 #core-parse-base    parse-base
-#core-pass          pass
+core-pass           pasigu
 #core-permutations  permutations
 #core-pick          pick
-#core-plan          plan
+core-plan           planu
 #core-pop           pop
 #core-prepend       prepend
-#core-print         print
-#core-printf        printf
+core-print          printu
+core-printf         printfu
 #core-proceed       proceed
 #core-prompt        prompt
 #core-push          push
@@ -273,11 +273,11 @@ core-ok     bone
 
 # KEY            TRANSLATION
 #core-rand        rand
-#core-redo        redo
+core-redo         refaru
 #core-reduce      reduce
 #core-repeated    repeated
 #core-repl        repl
-#core-return      return
+core-return       resendu
 #core-return-rw   return-rw
 #core-reverse     reverse
 #core-rindex      rindex
@@ -293,7 +293,7 @@ core-ok     bone
 #core-samecase     samecase
 #core-samemark     samemark
 #core-samewith     samewith
-#core-say          say
+core-say           diru
 #core-set          set
 #core-shell        shell
 #core-shift        shift
@@ -301,7 +301,7 @@ core-ok     bone
 #core-signal       signal
 #core-skip         skip
 #core-skip-rest    skip-rest
-#core-sleep        sleep
+core-sleep         dormu
 #core-sleep-timer  sleep-timer
 #core-sleep-until  sleep-until
 #core-slip         slip
@@ -367,7 +367,7 @@ core-use-ok     usi-bone
 #core-values  values
 
 # KEY          TRANSLATION
-#core-warn      warn
+core-warn       averti
 #core-wordcase  wordcase
 #core-words     words
 
@@ -377,7 +377,7 @@ core-use-ok     usi-bone
 # KEY                   TRANSLATION
 #enum-BigEndian          BigEndian
 #enum-Broken             Broken
-#enum-False              False
+enum-False               Malvera
 #enum-FileChanged        FileChanged
 #enum-FileRenamed        FileRenamed
 #enum-Kept               Kept
@@ -390,7 +390,7 @@ core-use-ok     usi-bone
 #enum-SeekFromBeginning  SeekFromBeginning
 #enum-SeekFromCurrent    SeekFromCurrent
 #enum-SeekFromEnd        SeekFromEnd
-#enum-True               True
+enum-True                Vera
 
 # KEY             TRANSLATION
 #infix-(cont)      (cont)
@@ -400,7 +400,7 @@ core-use-ok     usi-bone
 #infix-^fff        ^fff
 #infix-^fff^       ^fff^
 #infix-after       after
-#infix-and         and
+infix-and          kaj
 #infix-andthen     andthen
 #infix-before      before
 #infix-but         but
@@ -453,7 +453,7 @@ modifier-without   sen
 
 # KEY        TRANSLATION
 #multi-multi  multi
-#multi-only   only
+multi-only    nur
 #multi-proto  proto
 
 # KEY           TRANSLATION
@@ -750,7 +750,7 @@ stmt-prefix-try       provi
 #term-now      now
 #term-pi       pi
 #term-rand     rand
-#term-self     self
+term-self      mem
 #term-tau      tau
 #term-time     time
 
@@ -758,7 +758,7 @@ stmt-prefix-try       provi
 #trait-is-built                  built
 #trait-is-copy                   copy
 #trait-is-default                default
-#trait-is-DEPRECATED             DEPRECATED
+trait-is-DEPRECATED              EVITINDA
 #trait-is-equiv                  equiv
 #trait-is-export                 export
 #trait-is-hidden-from-backtrace  hidden-from-backtrace
@@ -766,7 +766,7 @@ stmt-prefix-try       provi
 #trait-is-implementation-detail  implementation-detail
 #trait-is-looser                 looser
 #trait-is-nodal                  nodal
-#trait-is-pure                   pure
+trait-is-pure                    pura
 #trait-is-raw                    raw
 #trait-is-rw                     rw
 #trait-is-test-assertion         test-assertion
