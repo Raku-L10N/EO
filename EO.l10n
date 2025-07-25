@@ -118,13 +118,13 @@ core-await              atendu
 # KEY          TRANSLATION
 #core-bag       bag
 #core-bail-out  bail-out
-core-bless      benas
+core-bless      benu
 
 # KEY              TRANSLATION
 #core-callframe     callframe
 #core-callsame      callsame
 #core-callwith      callwith
-core-can-ok         povi-bone
+core-can-ok         povas-bone
 #core-cas           cas
 #core-categorize    categorize
 #core-ceiling       ceiling
@@ -138,7 +138,7 @@ core-can-ok         povi-bone
 #core-chrs          chrs
 #core-classify      classify
 #core-close         close
-core-cmp-ok         cmp-bone
+core-cmp-ok         kmp-bone
 #core-codes         codes
 #core-comb          comb
 #core-combinations  combinations
@@ -166,7 +166,7 @@ core-done      farita
 #core-ends-with      ends-with
 core-eval-dies-ok   taksi-mortas-bone
 core-eval-lives-ok  taksi-vivas-bone
-core-exit            eliri
+core-exit            eliru
 #core-exp            exp
 #core-expmod         expmod
 
@@ -250,7 +250,7 @@ core-note         notu
 # KEY      TRANSLATION
 core-ok     bone
 core-one    unu
-core-open   malfermi
+core-open   malfermu
 #core-ord   ord
 #core-ords  ords
 
@@ -261,7 +261,7 @@ core-open   malfermi
 core-pass           pasigu
 #core-permutations  permutations
 #core-pick          pick
-core-plan           planu
+core-plan           planas
 #core-pop           pop
 #core-prepend       prepend
 core-print          printu
@@ -359,7 +359,7 @@ core-unlike     malsimila
 #core-unlink    unlink
 #core-unpolar   unpolar
 #core-unshift   unshift
-core-use-ok     usi-bone
+core-use-ok     usas-bone
 
 # KEY        TRANSLATION
 #core-val     val
@@ -367,7 +367,7 @@ core-use-ok     usi-bone
 #core-values  values
 
 # KEY          TRANSLATION
-core-warn       averti
+core-warn       avertu
 #core-wordcase  wordcase
 #core-words     words
 
@@ -712,7 +712,7 @@ routine-token       signo
 
 # KEY           TRANSLATION
 scope-anon       anonima
-scope-augment    pliigas
+scope-augment    etendas
 scope-constant   konstanto
 scope-has        havas
 scope-HAS        HAVAS
