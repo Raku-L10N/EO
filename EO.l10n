@@ -773,12 +773,12 @@ block-without    sen
 #trait-is-tighter                tighter
 
 # KEY             TRANSLATION
-#traitmod-does     does
-#traitmod-handles  handles
+traitmod-does      faras
+traitmod-handles   traktas
 #traitmod-hides    hides
-#traitmod-is       is
-#traitmod-of       of
-#traitmod-returns  returns
+traitmod-is        estas
+traitmod-of        de
+traitmod-returns   resendas
 #traitmod-trusts   trusts
 
 # KEY         TRANSLATION
