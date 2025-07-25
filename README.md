@@ -7,6 +7,8 @@ Esbelando - Estas bela lando
 
 Parolas al via komputilo en Esperanto.
 
+<br>
+
 Instalo
 =======
 
@@ -16,25 +18,46 @@ Instalo
 
         $ zef install L10N::EO
 
+<br>
+
 Uzo
 ===
 
     $ esbelando -e 'diru "Saluton, Esbelando!"'
 
 ```raku
+#!/usr/bin/env esbelando
+
 se Vera {
   porĉiu 1..3 -> $kvanto {
     diru "{$kvanto}. ：Saluton，Esbelando！";
   }
 } alie {
-    mortu "Ŝajnas ke io estas malĝusta kun nia programo";
+  mortu "Ŝajnas ke io estas malĝusta kun nia programo";
 }
 ```
+
+<br>
+
+La sufiksa regulo de Esbelando
+==============================
+
+  * `procedo`j kaj `metodo`j de uzantoj ĉiam uzas la finaĵon **`-i`**.
+
+  * Internaj instrukcioj de la lingvo mem:
+
+    * **Imperativa** (ordonaj) finiĝas per **`-u`**
+
+    * **Deklarativa** (priskribaj) finiĝas per **`-as`**
+
+<br>
 
 Priskribo
 =========
 
 La distribuaĵo `L10N::EO` provizas subtenon por Raku en Esperanto. Ĝi instalas efektivigeblan dosieron: `esbelando`, kiu permesas al la uzanto ruli Raku-kodon skribitan en Esperanto.
+
+<br>
 
 Aŭtoroj
 =======
@@ -44,6 +67,8 @@ Aŭtoroj
   * Daniel Mita
 
   * Liz <l10n@raku.org>
+
+<br>
 
 Kopirajto kaj Licenco
 =====================
