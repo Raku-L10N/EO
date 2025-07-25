@@ -44,13 +44,23 @@ se Vera {
 <br>
 
 
-=head1 La sufiksa regulo de Esbelando
+=head1 La Blua Sufiksa Regulo de Esbelando
+
+=head2 Substantivoj
+
+=item1 Substantivoj ĉiuj finiĝas per B<C<-o>>
+
+=head2 Verboj
 
 =item1 C<procedo>j kaj C<metodo>j de uzantoj ĉiam uzas la finaĵon B<C<-i>>.
 
 =item1 Internaj instrukcioj de la lingvo mem:
   =item2 **Imperativa** (ordonaj) finiĝas per B<C<-u>>
   =item2 **Deklarativa** (priskribaj) finiĝas per B<C<-as>>
+
+=head2 Kial Blua?
+
+Ĉar B<Esbelando> baziĝas sur la sufiksosistemo de Esperanto, sed faras kelkajn modifojn. La ĉefa koloro de B<Raku> estas malhelblua, dum la simbolo de B<Esperanto> estas verda. B<Bluo situas inter malhelbluo kaj verdo>.
 
 <br>
 

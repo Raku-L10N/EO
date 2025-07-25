@@ -39,8 +39,16 @@ se Vera {
 
 <br>
 
-La sufiksa regulo de Esbelando
-==============================
+La Blua Sufiksa Regulo de Esbelando
+===================================
+
+Substantivoj
+------------
+
+  * Substantivoj ĉiuj finiĝas per **`-o`**
+
+Verboj
+------
 
   * `procedo`j kaj `metodo`j de uzantoj ĉiam uzas la finaĵon **`-i`**.
 
@@ -49,6 +57,11 @@ La sufiksa regulo de Esbelando
     * **Imperativa** (ordonaj) finiĝas per **`-u`**
 
     * **Deklarativa** (priskribaj) finiĝas per **`-as`**
+
+Kial Blua?
+----------
+
+Ĉar **Esbelando** baziĝas sur la sufiksosistemo de Esperanto, sed faras kelkajn modifojn. La ĉefa koloro de **Raku** estas malhelblua, dum la simbolo de **Esperanto** estas verda. **Bluo situas inter malhelbluo kaj verdo**.
 
 <br>
 
