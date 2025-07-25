@@ -2,5 +2,8 @@ Revision history for L10N-EO
 
 {{$NEXT}}
 
+0.0.2  2025-07-25T23:50:05+08:00
+    - Follow the Blua Sufiksa Regulo
+
 0.0.1  2025-07-25T17:39:36+08:00
     - Initial version

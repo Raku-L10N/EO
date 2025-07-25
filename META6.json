@@ -2,6 +2,7 @@
   "auth": "zef:l10n",
   "authors": [
     "Aoran Zeng",
+    "Daniel Mita",
     "Liz"
   ],
   "build-depends": [
@@ -25,5 +26,5 @@
   ],
   "test-depends": [
   ],
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
