@@ -76,17 +76,17 @@ adverb-pc-exists   ekzistas
 #adverb-rx-x           x
 
 # KEY           TRANSLATION
-#block-default   default
+block-default    defaŭlta
 block-else       alie
 block-elsif      aliese
-#block-for       for
+block-for        porĉiu
 block-given      donata
-#block-if        se
+block-if         se
 block-loop       ciklo
 block-orwith     aliekun
 block-repeat     ripetu
 block-unless     sene
-#block-until     until
+block-until      ĝis
 block-when       kiam
 block-whenever   kiamajn
 block-while      dum
@@ -355,7 +355,7 @@ core-sleep         dormu
 #core-unique    unique
 #core-unival    unival
 #core-univals   univals
-#core-unlike    unlike
+core-unlike     malsimila
 #core-unlink    unlink
 #core-unpolar   unpolar
 #core-unshift   unshift
@@ -441,11 +441,11 @@ infix-and          kaj
 #meta-Z  Z
 
 # KEY             TRANSLATION
-#modifier-for      for
+modifier-for       porĉiu
 modifier-given     donata
 modifier-if        se
 modifier-unless    sene
-#modifier-until    until
+modifier-until     ĝis
 modifier-when      kiam
 modifier-while     dum
 modifier-with      kun
@@ -721,7 +721,7 @@ scope-state      stato
 scope-unit       unuo
 
 # KEY                TRANSLATION
-#stmt-prefix-also     also
+stmt-prefix-also      ankaŭ
 stmt-prefix-do        fari
 stmt-prefix-eager     avida
 stmt-prefix-gather    kunveni
@@ -757,7 +757,7 @@ term-self      mem
 # KEY                           TRANSLATION
 #trait-is-built                  built
 #trait-is-copy                   copy
-#trait-is-default                default
+trait-is-default                 defaŭlta
 trait-is-DEPRECATED              EVITINDA
 #trait-is-equiv                  equiv
 #trait-is-export                 export
@@ -783,7 +783,7 @@ traitmod-returns   resendas
 
 # KEY         TRANSLATION
 #typer-enum    enum
-#typer-subset  subset
+typer-subset   subaro
 
 # KEY        TRANSLATION
 use-import    importas
