@@ -20,7 +20,7 @@ Instali C<L10N::EO> modulo
 =head1 UZO
 
 =begin output
-$ esbelando -e 'diru "Saluton, Esbelando!"';'
+$ esbelando -e 'diru "Saluton, Esbelando!"'
 =end output
 
 =begin code :lang<raku>
