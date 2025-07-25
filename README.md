@@ -1,34 +1,52 @@
 [![Actions Status](https://github.com/Raku-L10N/EO/actions/workflows/linux.yml/badge.svg)](https://github.com/Raku-L10N/EO/actions) [![Actions Status](https://github.com/Raku-L10N/EO/actions/workflows/macos.yml/badge.svg)](https://github.com/Raku-L10N/EO/actions) [![Actions Status](https://github.com/Raku-L10N/EO/actions/workflows/windows.yml/badge.svg)](https://github.com/Raku-L10N/EO/actions)
 
-NAME
-====
+Esbelando
+=========
 
-L10N::EO - Esperanto localization of Raku
+**Esbelando**
 
-SYNOPSIS
-========
+Parolu al via komputilo en Esperanto
 
-    $ espku -e '' # please add a simple code example in the EO localization
-
-```raku
-use L10N::EO;
-# please add a code example in the EO localization
-```
-
-DESCRIPTION
-===========
-
-The `L10N::EO` distribution contains the logic to provide a Esperanto localization of the Raku Programming Language. It installs a `espku` executable that will automatically activate the Esperanto localization. And it allows one to use the Esperanto localization in selected programs with a `use L10N::EO` statement.
-
-AUTHORS
+INSTALO
 =======
 
-Liz <l10n@raku.org>
+  * Instali [Rakudo](https://rakudo.org)
 
-COPYRIGHT AND LICENSE
+  * Instali `L10N::EO` modulo
+
+        $ zef install L10N::EO
+
+UZO
+===
+
+    $ esbelando -e 'diru "Saluton, Esbelando!"';'
+
+```raku
+se Vera {
+  for 1..3 -> $kvanto {
+    diru "{$kvanto}. ：Saluton，Esbelando！";
+  }
+} alie {
+    mortu "Ŝajnas ke io estas malĝusta kun nia programo";
+}
+```
+
+PRISKRIBO
+=========
+
+La distribuaĵo `L10N::EO` provizas subtenon por Raku en Esperanto. Ĝi instalas efektivigeblan dosieron: `esbelando`, kiu permesas al la uzanto ruli Raku-kodon skribitan en Esperanto.
+
+AŬTOROJ
+=======
+
+  * Aoran Zeng <ccmywish@qq.com>
+
+  * Liz <l10n@raku.org>
+
+KOPIRAJTO KAJ LICENCO
 =====================
 
 Copyright 2025 Raku Localization Team
 
-This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
+Ĉi tiu biblioteko estas libera programaro; vi povas redistribui ĝin kaj/aŭ modifi ĝin laŭ la Artistic License 2.0
 

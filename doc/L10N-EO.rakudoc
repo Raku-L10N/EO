@@ -1,39 +1,51 @@
 =begin pod
 
-=head1 NAME
+=head1 Esbelando
 
-L10N::EO - Esperanto localization of Raku
+=defn Esbelando
+Parolu al via komputilo en Esperanto
 
-=head1 SYNOPSIS
+=head1 Instalo
+
+=item1 Instali L<Rakudo|https://rakudo.org>
+
+=begin item1
+Instali C<L10N::EO> modulo
+
+    $ zef install L10N::EO
+
+=end item1
+
+=head1 UZO
 
 =begin output
-$ espku -e '' # please add a simple code example in the EO localization
+$ esbelando -e 'diru "Saluton, Esbelando!"';'
 =end output
 
 =begin code :lang<raku>
-
-use L10N::EO;
-# please add a code example in the EO localization
-
+se Vera {
+  for 1..3 -> $kvanto {
+    diru "{$kvanto}. ：Saluton，Esbelando！";
+  }
+} alie {
+    mortu "Ŝajnas ke io estas malĝusta kun nia programo";
+}
 =end code
 
-=head1 DESCRIPTION
+=head1 PRISKRIBO
 
-The C<L10N::EO> distribution contains the logic to provide a Esperanto
-localization of the Raku Programming Language.  It installs a
-C<espku> executable that will automatically activate the Esperanto
-localization.  And it allows one to use the Esperanto localization
-in selected programs with a C<use L10N::EO> statement.
+La distribuaĵo C<L10N::EO> provizas subtenon por Raku en Esperanto. Ĝi instalas efektivigeblan dosieron: C<esbelando>, kiu permesas al la uzanto ruli Raku-kodon skribitan en Esperanto.
 
-=head1 AUTHORS
+=head1 AŬTOROJ
 
-Liz <l10n@raku.org>
+=item1 Aoran Zeng <ccmywish@qq.com>
+=item1 Liz <l10n@raku.org>
 
-=head1 COPYRIGHT AND LICENSE
+=head1 KOPIRAJTO KAJ LICENCO
 
 Copyright 2025 Raku Localization Team
 
-This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
+Ĉi tiu biblioteko estas libera programaro; vi povas redistribui ĝin kaj/aŭ modifi ĝin laŭ la Artistic License 2.0
 
 =end pod
 
