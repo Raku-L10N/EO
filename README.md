@@ -28,7 +28,7 @@ Uzo
 ```raku
 #!/usr/bin/env esbelando
 
-se Vera {
+se Vero {
   porĉiu 1..3 -> $kvanto {
     diru "{$kvanto}. Saluton, Esbelando!";
   }
