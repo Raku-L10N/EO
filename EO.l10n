@@ -377,7 +377,7 @@ core-warn       avertu
 # KEY                   TRANSLATION
 #enum-BigEndian          BigEndian
 #enum-Broken             Broken
-enum-False               Malvera
+enum-False               Malvero
 #enum-FileChanged        FileChanged
 #enum-FileRenamed        FileRenamed
 #enum-Kept               Kept
@@ -390,7 +390,7 @@ enum-False               Malvera
 #enum-SeekFromBeginning  SeekFromBeginning
 #enum-SeekFromCurrent    SeekFromCurrent
 #enum-SeekFromEnd        SeekFromEnd
-enum-True                Vera
+enum-True                Vero
 
 # KEY             TRANSLATION
 #infix-(cont)      (cont)
