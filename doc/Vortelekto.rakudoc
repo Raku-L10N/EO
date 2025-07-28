@@ -2,23 +2,6 @@
 
 =head1 Vortelekto
 
-=head2 C<Vera> vs. C<Vero>
-
-Se ni pensas pri ĝi kiel bulea valoro, ni eble tuj pensos, ke ni devus uzi C<Vero>.
-
-Sed la valoro mem havas semantikon, ĝi mem priskribas la veran aŭ malveran situacion de io.
-
-Se ni uzas la adjektivon C<Vera>, multaj esprimoj fariĝas naturaj, kiel ekzemple:
-
-    se Vera {
-      diru "Saluton, Vera!";
-    }
-
-Ankaŭ, ekzemple, kiam ĝi estas metita post C<dum>, C<kaj>, Caŭ>
-
-<br>
-
-
 =head2 C<provu> vs. C<provas>
 
 Jen malfacila decido. Sed se ni komprenas unu punkton:
@@ -26,6 +9,23 @@ Jen malfacila decido. Sed se ni komprenas unu punkton:
     Provu tiun kodblokon!
 
 Ni scias, ke ĝi devas esti B<Imperativa>. B<Imperativo> estas la evidenta trajto de programlingvo.
+
+Bonvolu rilati al: B<Blua Sufiksa Regulo>
+
+
+
+=head2 C<Vero> vs. C<Vera>
+
+Kvankam estas nature skribi ĉi tion kun C<Vera>:
+
+    se Vera {
+      diru "Saluton!";
+    }
+
+La samo ankaŭ validas kiam ĝi estas metita post C<dum>, C<kaj>, Caŭ>
+
+Sed fakte, B<kiel laŭvorto, ĝi preskaŭ neniam aperas rekte en ĉi tiuj deklaroj>. Anstataŭe, ĝi estas nur kiel valoro post kiam la esprimo estas taksata.
+
 
 
 =end pod
