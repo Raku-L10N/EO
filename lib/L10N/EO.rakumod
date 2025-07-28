@@ -1,7 +1,7 @@
 # This file contains the ……… Slang of the Raku Programming Language
 
 #- start of generated part of localization ------------------------------------
-#- Generated on 2025-07-25T23:22:12+08:00 by update-localization.raku
+#- Generated on 2025-07-28T22:32:41+08:00 by update-localization.raku
 #- PLEASE DON'T CHANGE ANYTHING BELOW THIS LINE
 
 role L10N::EO {
@@ -9,10 +9,10 @@ role L10N::EO {
     token block-default { defaŭlte}
     token block-else { alie}
     token block-elsif { aliese}
-    token block-for { porĉiu}
+    token block-for { por}
     token block-given { donite}
     token block-if { se}
-    token block-loop { iteracio}
+    token block-loop { iteraciu}
     token block-orwith { aŭkun}
     token block-repeat { ripetu}
     token block-unless { kromse}
@@ -25,7 +25,7 @@ role L10N::EO {
     token constraint-where { kie}
     token enum-BigEndian { BigEndian}
     token enum-Broken { Broken}
-    token enum-False { Malvera}
+    token enum-False { Malvero}
     token enum-FileChanged { FileChanged}
     token enum-FileRenamed { FileRenamed}
     token enum-Kept { Kept}
@@ -38,7 +38,7 @@ role L10N::EO {
     token enum-SeekFromBeginning { SeekFromBeginning}
     token enum-SeekFromCurrent { SeekFromCurrent}
     token enum-SeekFromEnd { SeekFromEnd}
-    token enum-True { Vera}
+    token enum-True { Vero}
     token infix-pcontp { "(cont)"}
     token infix-pelemp { "(elem)"}
     token infix-cff { "^ff"}
@@ -83,7 +83,7 @@ role L10N::EO {
     token meta-R { R}
     token meta-X { X}
     token meta-Z { Z}
-    token modifier-for { porĉiu}
+    token modifier-for { por}
     token modifier-given { donite}
     token modifier-if { se}
     token modifier-unless { kromse}
