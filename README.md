@@ -29,8 +29,8 @@ Uzo
 #!/usr/bin/env esbelando
 
 se Vero {
-  porĉiu 1..3 -> $kvanto {
-    diru "{$kvanto}. Saluton, Esbelando!";
+  por 1..3 -> $fojo {
+    diru "$fojo. Saluton, Esbelando!";
   }
 } alie {
   mortu "Ŝajnas ke io estas malĝusta kun nia programo";
