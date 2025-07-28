@@ -28,4 +28,12 @@ Sed fakte, B<kiel laŭvorto, ĝi preskaŭ neniam aperas rekte en ĉi tiuj deklar
 
 
 
+=head2 C<por> vs. C<porĉiu>
+
+En modernaj programlingvoj, C<for> fakte ne estas tiu sama kiel en C/ALGOL, sed prefere C<each>-a iteracio. Tamen, konsiderante ke uzi C<for> estas komprenebla, precipe post kiam Raku enkondukis la -> simbolon.
+
+La uzo de C<por> permesas rektan mapadon kun Raku.
+
+
+
 =end pod
