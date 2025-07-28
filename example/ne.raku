@@ -1,6 +1,6 @@
 #!/usr/bin/env esbelando
 
-se ne Malvera {
+se ne Malvero {
   se 'ab' ne 'ab' {
     diru "Malbone";
   }
