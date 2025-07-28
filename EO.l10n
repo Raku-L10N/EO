@@ -79,7 +79,7 @@ adverb-pc-exists   ekzistas
 block-default    defaŭlte
 block-else       alie
 block-elsif      aliese
-block-for        porĉiu
+block-for        por
 block-given      donite
 block-if         se
 block-loop       iteraciu
@@ -442,7 +442,7 @@ infix-orelse       aŭalie
 #meta-Z  Z
 
 # KEY             TRANSLATION
-modifier-for       porĉiu
+modifier-for       por
 modifier-given     donite
 modifier-if        se
 modifier-unless    kromse
