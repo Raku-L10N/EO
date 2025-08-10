@@ -684,7 +684,7 @@ phaser-UNDO      MALFARU
 #pragma-strict              strict
 #pragma-trace               trace
 #pragma-variables           variables
-#pragma-worries             worries
+pragma-worries             zorgojn
 
 # KEY       TRANSLATION
 prefix-not   ne
