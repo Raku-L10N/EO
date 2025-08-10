@@ -679,11 +679,11 @@ phaser-UNDO      MALFARU
 #pragma-MONKEY-SEE-NO-EVAL  MONKEY-SEE-NO-EVAL
 #pragma-MONKEY-TYPING       MONKEY-TYPING
 #pragma-nqp                 nqp
-#pragma-precompilation      precompilation
-#pragma-soft                soft
-#pragma-strict              strict
-#pragma-trace               trace
-#pragma-variables           variables
+pragma-precompilation      antaŭtradukadon
+pragma-soft                molecon
+pragma-strict              striktecon
+pragma-trace               spurantan
+pragma-variables           variablojn
 pragma-worries             zorgojn
 
 # KEY       TRANSLATION
