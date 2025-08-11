@@ -789,7 +789,7 @@ typer-subset   subaro
 # KEY        TRANSLATION
 use-import    importu
 use-need      bezonu
-use-no        forneu
+use-no        neu
 use-require   postulu
 use-use       uzu
 
