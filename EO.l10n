@@ -5,13 +5,14 @@
 #
 # See https://github.com/Raku-L10N/L10N/ for more information
 
+# Note pc stands for postcircumfix
 # KEY             TRANSLATION
-adverb-pc-delete   forstreku
-adverb-pc-exists   ekzistas
-#adverb-pc-k       k
-#adverb-pc-kv      kv
-#adverb-pc-p       p
-#adverb-pc-v       v
+adverb-pc-delete   for
+adverb-pc-exists   ĉu
+adverb-pc-k       kie
+adverb-pc-kv      kiuj
+adverb-pc-p       kio
+adverb-pc-v       kiu
 
 # KEY                TRANSLATION
 #adverb-q-a           a
