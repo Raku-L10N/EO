@@ -197,7 +197,7 @@ core-flip          renversu
 #core-index      index
 #core-indices    indices
 #core-indir      indir
-#core-invert     invert
+core-invert     interŝanĝu
 core-is          estas
 #core-is-approx  estas-approx
 #core-is-deeply  estas-deeply
