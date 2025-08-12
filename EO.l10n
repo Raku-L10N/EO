@@ -680,12 +680,12 @@ phaser-UNDO      MALFARU
 #pragma-MONKEY-SEE-NO-EVAL  MONKEY-SEE-NO-EVAL
 #pragma-MONKEY-TYPING       MONKEY-TYPING
 #pragma-nqp                 nqp
-#pragma-precompilation      precompilation
-#pragma-soft                soft
-#pragma-strict              strict
-#pragma-trace               trace
-#pragma-variables           variables
-#pragma-worries             worries
+pragma-precompilation      antaŭtradukadon
+pragma-soft                molecon
+pragma-strict              striktecon
+pragma-trace               spurantan
+pragma-variables           variablojn
+pragma-worries             zorgojn
 
 # KEY       TRANSLATION
 prefix-not   ne
@@ -788,10 +788,10 @@ traitmod-returns   resendas
 typer-subset   subaro
 
 # KEY        TRANSLATION
-use-import    importas
-use-need      bezonas
-#use-no       no
-use-require   postulas
-use-use       uzas
+use-import    importu
+use-need      bezonu
+use-no        neu
+use-require   postulu
+use-use       uzu
 
 # vim: expandtab shiftwidth=4
