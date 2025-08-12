@@ -176,7 +176,7 @@ core-exit            eliru
 #core-fc            fc
 core-first          unua
 #core-flat          flat
-#core-flip          flip
+core-flip          renversu
 #core-floor         floor
 #core-flunk         flunk
 #core-fmt           fmt
@@ -280,7 +280,7 @@ core-redo         refaru
 #core-repl        repl
 core-return       resendu
 #core-return-rw   return-rw
-#core-reverse     reverse
+core-reverse     inversigu
 #core-rindex      rindex
 #core-rmdir       rmdir
 #core-roll        roll
