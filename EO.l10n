@@ -17,8 +17,8 @@ adverb-pc-exists   ekzistas
 adverb-q-a            oje # tio estas -oj kaj -e
 adverb-q-array        tabelo
 adverb-q-array        vicaro
-#adverb-q-b           b
-#adverb-q-backslash   backslash
+adverb-q-b            sob
+adverb-q-backslash    dekliveskapsigne
 #adverb-q-c           c
 #adverb-q-closure     closure
 #adverb-q-double      double
