@@ -14,7 +14,8 @@ adverb-pc-exists   ekzistas
 #adverb-pc-v       v
 
 # KEY                TRANSLATION
-adverb-q-a            oje # tio estas -oj kaj -e
+#                     tio estas -oj kaj -e
+adverb-q-a            oje
 adverb-q-array        tabelo
 adverb-q-b            sob
 adverb-q-backslash    dekliveskapsigne
