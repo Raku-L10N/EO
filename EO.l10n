@@ -10,7 +10,8 @@
 adverb-pc-delete   for
 adverb-pc-exists   ĉu
 adverb-pc-k       kie
-adverb-pc-kv      kiuj
+# as apheresis of "duope"
+adverb-pc-kv      ope
 adverb-pc-p       kio
 adverb-pc-v       kiu
 
@@ -37,8 +38,8 @@ adverb-pc-v       kiu
 #adverb-q-scalar      scalar
 #adverb-q-single      single
 #adverb-q-to          to
-#adverb-q-v           v
-#adverb-q-val         val
+adverb-q-v           kiu
+adverb-q-val         valoro
 #adverb-q-w           w
 #adverb-q-words       words
 #adverb-q-ww          ww
@@ -211,9 +212,9 @@ core-isa-ok      isa-bone
 #core-join  join
 
 # KEY      TRANSLATION
-#core-key   key
-#core-keys  keys
-#core-kv    kv
+core-key   kie
+core-keys  kies
+core-kv    ope
 
 # KEY          TRANSLATION
 core-last       lasta
@@ -364,9 +365,10 @@ core-unlike     malsimila
 core-use-ok     usas-bone
 
 # KEY        TRANSLATION
-#core-val     val
-#core-value   value
-#core-values  values
+# NT: no cor-v apparently
+core-val     kiu
+core-value   valoro
+core-values  kiuj
 
 # KEY          TRANSLATION
 core-warn       avertu
@@ -541,9 +543,12 @@ multi-only    nur
 #named-joiner  joiner
 
 # KEY      TRANSLATION
-#named-k    k
-#named-key  key
-#named-kv   kv
+# used in grep, without use of named-key alternative form
+named-k    kie
+# used in Pair, without use of named-k alternative form
+named-key  kie
+# used in grep, without use of named-key-value alternative form
+named-kv   ope
 
 # KEY            TRANSLATION
 #named-listen     listen
@@ -627,8 +632,8 @@ multi-only    nur
 #named-update  update
 
 # KEY          TRANSLATION
-#named-v        v
-#named-value    value
+named-v        kiu
+named-value    valoro
 #named-vent-at  vent-at
 #named-ver      ver
 #named-volume   volume
