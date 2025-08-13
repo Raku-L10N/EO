@@ -99,7 +99,7 @@ constraint-where   kie
 # KEY                  TRANSLATION
 #core-abs               abs
 #core-all               all
-#core-antipairs         antipairs
+core-antipairs         malparoj
 #core-any               any
 #core-append            append
 #core-ast               ast
@@ -210,9 +210,9 @@ core-isa-ok      isa-bone
 #core-join  join
 
 # KEY      TRANSLATION
-#core-key   key
-#core-keys  keys
-#core-kv    kv
+core-key   ŝlosilo
+core-keys  ŝlosiloj
+core-kv    ŝv
 
 # KEY          TRANSLATION
 core-last       lasta
@@ -256,8 +256,8 @@ core-open   malfermu
 #core-ords  ords
 
 # KEY              TRANSLATION
-#core-pair          pair
-#core-pairs         pairs
+core-pair          paro
+core-pairs         paroj
 #core-parse-base    parse-base
 core-pass           pasigu
 #core-permutations  permutations
@@ -364,8 +364,8 @@ core-use-ok     usas-bone
 
 # KEY        TRANSLATION
 #core-val     val
-#core-value   value
-#core-values  values
+core-value   valoro
+core-values  valoroj
 
 # KEY          TRANSLATION
 core-warn       avertu
@@ -541,7 +541,7 @@ multi-only    nur
 
 # KEY      TRANSLATION
 #named-k    k
-#named-key  key
+named-key  ŝlosilo
 #named-kv   kv
 
 # KEY            TRANSLATION
@@ -627,7 +627,7 @@ multi-only    nur
 
 # KEY          TRANSLATION
 #named-v        v
-#named-value    value
+named-value    valoro
 #named-vent-at  vent-at
 #named-ver      ver
 #named-volume   volume
