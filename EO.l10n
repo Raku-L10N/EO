@@ -27,8 +27,8 @@ adverb-q-function    funkcivoke
 adverb-q-f           ho
 adverb-q-format      modle
 adverb-q-o           hot
-#adverb-q-h           h
-#adverb-q-hash        hash
+adverb-q-hash        kuniĝe
+adverb-q-h           uje
 #adverb-q-heredoc     heredoc
 adverb-q-single      eskape
 adverb-q-q           ĉe
