@@ -14,13 +14,12 @@ adverb-pc-exists   ekzistas
 #adverb-pc-v       v
 
 # KEY                TRANSLATION
-#                    tio estas -oj kaj -e
-adverb-q-a           oje
 adverb-q-array       tabelo
-adverb-q-b           sob
+adverb-q-a           oje
 adverb-q-backslash   dekliveskapsigne
-adverb-q-c           laŭ
+adverb-q-b           sob
 adverb-q-closure     ferme
+adverb-q-c           laŭ
 adverb-q-exec        plenumige
 adverb-q-x           ek
 adverb-q-function    funkcivoke
