@@ -21,7 +21,6 @@ adverb-q-b           sob
 adverb-q-backslash   dekliveskapsigne
 adverb-q-c           laŭ
 adverb-q-closure     ferme
-#adverb-q-double      double
 #adverb-q-exec        exec
 #adverb-q-f           f
 #adverb-q-format      format
@@ -30,12 +29,13 @@ adverb-q-closure     ferme
 #adverb-q-hash        hash
 #adverb-q-heredoc     heredoc
 #adverb-q-o           o
-#adverb-q-q           q
-#adverb-q-qq          qq
+adverb-q-single      eskape
+adverb-q-q           ĉe
+adverb-q-double      pole
+adverb-q-qq          per
 #adverb-q-quotewords  quotewords
 #adverb-q-s           s
 #adverb-q-scalar      scalar
-#adverb-q-single      single
 #adverb-q-to          to
 #adverb-q-v           v
 #adverb-q-val         val
