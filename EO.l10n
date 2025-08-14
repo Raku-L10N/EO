@@ -28,7 +28,8 @@ adverb-q-format      modle
 adverb-q-o           hot
 adverb-q-hash        kuniĝe
 adverb-q-h           uje
-#adverb-q-heredoc     heredoc
+adverb-q-heredoc     ĉikune
+adverb-q-to          al
 adverb-q-single      eskape
 adverb-q-q           ĉe
 adverb-q-double      pole
@@ -36,7 +37,6 @@ adverb-q-qq          per
 #adverb-q-quotewords  quotewords
 #adverb-q-s           s
 #adverb-q-scalar      scalar
-#adverb-q-to          to
 #adverb-q-v           v
 #adverb-q-val         val
 #adverb-q-w           w
