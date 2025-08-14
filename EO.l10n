@@ -21,7 +21,8 @@ adverb-q-b           sob
 adverb-q-backslash   dekliveskapsigne
 adverb-q-c           laŭ
 adverb-q-closure     ferme
-#adverb-q-exec        exec
+adverb-q-exec        plenumige
+adverb-q-x           ek
 #adverb-q-f           f
 #adverb-q-format      format
 #adverb-q-function    function
@@ -42,7 +43,6 @@ adverb-q-qq          per
 #adverb-q-w           w
 #adverb-q-words       words
 #adverb-q-ww          ww
-#adverb-q-x           x
 
 # KEY                 TRANSLATION
 #adverb-rx-c           c
