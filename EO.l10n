@@ -25,11 +25,11 @@ adverb-q-exec        plenumige
 adverb-q-x           ek
 adverb-q-function    funkcivoke
 adverb-q-f           ho
-#adverb-q-format      format
+adverb-q-format      modle
+adverb-q-o           hot
 #adverb-q-h           h
 #adverb-q-hash        hash
 #adverb-q-heredoc     heredoc
-#adverb-q-o           o
 adverb-q-single      eskape
 adverb-q-q           ĉe
 adverb-q-double      pole
