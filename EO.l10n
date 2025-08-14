@@ -23,9 +23,9 @@ adverb-q-c           laŭ
 adverb-q-closure     ferme
 adverb-q-exec        plenumige
 adverb-q-x           ek
-#adverb-q-f           f
+adverb-q-function    funkcivoke
+adverb-q-f           ho
 #adverb-q-format      format
-#adverb-q-function    function
 #adverb-q-h           h
 #adverb-q-hash        hash
 #adverb-q-heredoc     heredoc
