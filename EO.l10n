@@ -8,12 +8,14 @@
 # Note pc stands for postcircumfix
 # KEY             TRANSLATION
 adverb-pc-delete   for
-adverb-pc-exists   ĉu
+adverb-pc-exists   ĉu | chu | cxu
+# Note "k" stands for key
 adverb-pc-k       kie
-# as apheresis of "duope"
-adverb-pc-kv      ope
-adverb-pc-p       kio
-adverb-pc-v       kiu
+# Note "kv" stands for "key-value (enlisted together)"
+adverb-pc-kv      ane 
+# Note "p" stands for "pair (of index/key and the value of the element)"
+adverb-pc-p       ope 
+adverb-pc-v       aĵe | ajhe | ajxe
 
 # KEY                TRANSLATION
 #adverb-q-a           a
@@ -38,8 +40,8 @@ adverb-pc-v       kiu
 #adverb-q-scalar      scalar
 #adverb-q-single      single
 #adverb-q-to          to
-adverb-q-v           kiu
-adverb-q-val         valoro
+adverb-q-v            aĵe | ajhe | ajxe
+adverb-q-val          valorige
 #adverb-q-w           w
 #adverb-q-words       words
 #adverb-q-ww          ww
@@ -214,7 +216,7 @@ core-isa-ok      isa-bone
 # KEY      TRANSLATION
 core-key   kie
 core-keys  kies
-core-kv    ope
+core-kv    ane
 
 # KEY          TRANSLATION
 core-last       lasta
@@ -366,9 +368,9 @@ core-use-ok     usas-bone
 
 # KEY        TRANSLATION
 # NT: no cor-v apparently
-core-val     kiu
-core-value   valoro
-core-values  kiuj
+core-val     aĵe | ajhe | ajxe
+core-value   valorige
+core-values  ere
 
 # KEY          TRANSLATION
 core-warn       avertu
@@ -548,7 +550,7 @@ named-k    kie
 # used in Pair, without use of named-k alternative form
 named-key  kie
 # used in grep, without use of named-key-value alternative form
-named-kv   ope
+named-kv   ane
 
 # KEY            TRANSLATION
 #named-listen     listen
@@ -632,8 +634,8 @@ named-kv   ope
 #named-update  update
 
 # KEY          TRANSLATION
-named-v        kiu
-named-value    valoro
+named-v        aĵe | ajhe | ajxe
+named-value    valorige
 #named-vent-at  vent-at
 #named-ver      ver
 #named-volume   volume
