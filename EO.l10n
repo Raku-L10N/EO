@@ -310,7 +310,7 @@ core-sleep         dormu
 #core-snip         snip
 #core-snitch       snitch
 #core-so           so
-#core-sort         sort
+core-sort         ordigu
 #core-splice       splice
 #core-split        split
 #core-sprintf      sprintf
