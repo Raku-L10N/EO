@@ -275,7 +275,7 @@ core-printf         printfu
 # KEY            TRANSLATION
 #core-rand        rand
 core-redo         refaru
-#core-reduce      reduce
+core-reduce       reduktu
 #core-repeated    repeated
 #core-repl        repl
 core-return       resendu
