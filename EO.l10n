@@ -190,7 +190,7 @@ core-first          unua
 
 # KEY      TRANSLATION
 #core-hash  hash
-#core-head  head
+core-head  fronto
 
 # KEY           TRANSLATION
 #core-indent     indent
@@ -331,7 +331,7 @@ core-sleep         dormu
 #core-symlink      symlink
 
 # KEY               TRANSLATION
-#core-tail           tail
+core-tail           dorso
 #core-take           take
 #core-take-rw        take-rw
 #core-tc             tc
