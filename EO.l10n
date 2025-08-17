@@ -148,7 +148,7 @@ core-cmp-ok         kmp-bone
 
 # KEY         TRANSLATION
 #core-decode   decode
-#core-deepmap  deepmap
+core-deepmap   profundmapu
 core-defined   difinita
 #core-diag     diag
 core-die       mortu
@@ -156,7 +156,7 @@ core-dies-ok   mortas-bone
 #core-dir      dir
 core-does-ok   faras-bone
 core-done      farita
-#core-duckmap  duckmap
+core-duckmap   anasmapu
 
 # KEY               TRANSLATION
 #core-elems          elems
@@ -227,7 +227,7 @@ core-lives-ok  vivas-bone
 
 # KEY        TRANSLATION
 #core-make    make
-#core-map     map
+core-map     mapu
 #core-match   match
 #core-max     max
 #core-min     min
