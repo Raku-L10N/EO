@@ -229,9 +229,9 @@ core-lives-ok  vivas-bone
 #core-make    make
 #core-map     map
 #core-match   match
-#core-max     max
-#core-min     min
-#core-minmax  minmax
+core-max     maks
+core-min     min
+core-minmax  minmaks
 #core-mix     mix
 #core-mkdir   mkdir
 #core-move    move
