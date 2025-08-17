@@ -245,7 +245,7 @@ core-lives-ok  vivas-bone
 #core-nextwith    nextwith
 #core-nok         nok
 core-none         neniu
-#core-not         not
+core-not          ne
 core-note         notu
 
 # KEY      TRANSLATION
@@ -309,7 +309,7 @@ core-sleep         dormu
 #core-slurp        slurp
 #core-snip         snip
 #core-snitch       snitch
-#core-so           so
+core-so           ja
 #core-sort         sort
 #core-splice       splice
 #core-split        split
