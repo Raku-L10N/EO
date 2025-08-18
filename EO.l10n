@@ -56,9 +56,9 @@ adverb-rx-ignorecase  ajnuskle
 adverb-rx-i           ajn
 adverb-rx-samecase    samuskle
 adverb-rx-ii          sam
-adverb-rx-ignoremark  ignoremark
+adverb-rx-ignoremark  ajnkromsigne
 adverb-rx-m           ume
-adverb-rx-samemark    samemark
+adverb-rx-samemark    samkromsigne
 adverb-rx-mm          tia
 #adverb-rx-sigspace    sigspace
 #adverb-rx-s           s
