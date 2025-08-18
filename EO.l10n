@@ -60,10 +60,10 @@ adverb-rx-ignoremark  ajnkromsigne
 adverb-rx-m           ume
 adverb-rx-samemark    samkromsigne
 adverb-rx-mm          tia
-#adverb-rx-sigspace    sigspace
-#adverb-rx-s           s
+adverb-rx-sigspace    spacize
+adverb-rx-s           ize
 #adverb-rx-samespace   samespace
-#adverb-rx-ss          ss
+#adverb-rx-ss          bis
 
 #adverb-rx-overlap     overlap
 #adverb-rx-ov          ov
