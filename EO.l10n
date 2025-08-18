@@ -44,8 +44,10 @@ adverb-pc-exists   ekzistas
 #adverb-q-x           x
 
 # KEY                 TRANSLATION
-#adverb-rx-c           c
-#adverb-rx-continue    continue
+adverb-rx-continue    komence
+adverb-rx-c           ek
+adverb-rx-pos         pozicie
+adverb-rx-p           al
 #adverb-rx-ex          ex
 #adverb-rx-exhaustive  exhaustive
 #adverb-rx-g           g
@@ -60,8 +62,6 @@ adverb-pc-exists   ekzistas
 #adverb-rx-nth         nth
 #adverb-rx-ov          ov
 #adverb-rx-overlap     overlap
-#adverb-rx-p           p
-#adverb-rx-pos         pos
 #adverb-rx-r           r
 #adverb-rx-ratchet     ratchet
 #adverb-rx-rd          rd
