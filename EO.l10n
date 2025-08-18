@@ -38,8 +38,8 @@ adverb-q-words       disvortige
 adverb-q-w           dis
 adverb-q-quotewords  discitige
 adverb-q-ww          cit
-#adverb-q-s           s
-#adverb-q-scalar      scalar
+adverb-q-scalar      skalare
+adverb-q-s           pra
 #adverb-q-v           v
 #adverb-q-val         val
 
