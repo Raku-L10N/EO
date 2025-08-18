@@ -77,7 +77,7 @@ adverb-rx-ss          bis
 #adverb-rx-to          to
 
 # counting, possibly from x-times
-#adverb-rx-x           x
+adverb-rx-x           da
 
 # KEY           TRANSLATION
 block-default    defaŭlte
