@@ -44,6 +44,8 @@ adverb-pc-exists   ekzistas
 #adverb-q-x           x
 
 # KEY                 TRANSLATION
+adverb-rx-ratchet     antaŭize | antauhize | antauxize
+adverb-rx-r           paf
 adverb-rx-continue    komence
 adverb-rx-c           ek
 adverb-rx-pos         pozicie
@@ -66,9 +68,6 @@ adverb-rx-sigspace    spacize
 adverb-rx-s           ize
 adverb-rx-samespace   samespace
 adverb-rx-ss          bis
-
-#adverb-rx-ratchet     ratchet
-#adverb-rx-r           r
 
 #adverb-rx-nd          nd
 #adverb-rx-nth         nth
