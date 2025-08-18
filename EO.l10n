@@ -48,8 +48,8 @@ adverb-rx-continue    komence
 adverb-rx-c           ek
 adverb-rx-pos         pozicie
 adverb-rx-p           al
-#adverb-rx-ex          ex
-#adverb-rx-exhaustive  exhaustive
+adverb-rx-exhaustive  elĉerpe | elcherpe | elcxerpe
+adverb-rx-ex          ĉio
 #adverb-rx-g           g
 #adverb-rx-global      global
 #adverb-rx-i           i
