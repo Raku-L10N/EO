@@ -34,14 +34,14 @@ adverb-q-single      eskape
 adverb-q-q           ĉe
 adverb-q-double      pole
 adverb-q-qq          per
-#adverb-q-quotewords  quotewords
+adverb-q-words       disvortige
+adverb-q-w           dis
+adverb-q-quotewords  discitige
+adverb-q-ww          cit
 #adverb-q-s           s
 #adverb-q-scalar      scalar
 #adverb-q-v           v
 #adverb-q-val         val
-#adverb-q-w           w
-#adverb-q-words       words
-#adverb-q-ww          ww
 
 # KEY                 TRANSLATION
 #adverb-rx-c           c
