@@ -141,7 +141,7 @@ core-can-ok         povas-bone
 core-cmp-ok         kmp-bone
 #core-codes         codes
 #core-comb          comb
-#core-combinations  combinations
+core-combinations   kombinaĵoj
 #core-conj          conj
 #core-contains      contains
 #core-cross         cross
@@ -260,7 +260,7 @@ core-open   malfermu
 #core-pairs         pairs
 #core-parse-base    parse-base
 core-pass           pasigu
-#core-permutations  permutations
+core-permutations   permutaĵoj
 #core-pick          pick
 core-plan           planas
 #core-pop           pop
