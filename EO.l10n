@@ -186,7 +186,7 @@ core-first          unua
 #core-get   get
 #core-getc  getc
 #core-gist  gist
-#core-grep  grep
+core-grep   grepu
 
 # KEY      TRANSLATION
 #core-hash  hash
@@ -757,22 +757,22 @@ term-self      mem
 #term-time     time
 
 # KEY                           TRANSLATION
-#trait-is-built                  built
-#trait-is-copy                   copy
+trait-is-built                   konstruita
+trait-is-copy                    kopio
 trait-is-default                 defaŭlta
 trait-is-DEPRECATED              EVITINDA
-#trait-is-equiv                  equiv
-#trait-is-export                 export
+trait-is-equiv                   ekvivalento
+trait-is-export                  eksporto
 #trait-is-hidden-from-backtrace  hidden-from-backtrace
 #trait-is-hidden-from-USAGE      hidden-from-USAGE
 #trait-is-implementation-detail  implementation-detail
-#trait-is-looser                 looser
-#trait-is-nodal                  nodal
+trait-is-looser                  pli-loza
+trait-is-nodal                   noda
 trait-is-pure                    pura
-#trait-is-raw                    raw
+trait-is-raw                     kruda
 #trait-is-rw                     rw
 #trait-is-test-assertion         test-assertion
-#trait-is-tighter                tighter
+trait-is-tighter                 pli-malloza
 
 # KEY             TRANSLATION
 traitmod-does      faras
