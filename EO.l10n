@@ -50,6 +50,8 @@ adverb-rx-pos         pozicie
 adverb-rx-p           al
 adverb-rx-exhaustive  elĉerpe | elcherpe | elcxerpe
 adverb-rx-ex          ĉio | chio | cxio
+adverb-rx-overlap     ĉerpege
+adverb-rx-ov          ege
 adverb-rx-global      plene
 adverb-rx-g           oze
 adverb-rx-ignorecase  ajnuskle
@@ -65,8 +67,6 @@ adverb-rx-s           ize
 #adverb-rx-samespace   samespace
 #adverb-rx-ss          bis
 
-#adverb-rx-overlap     overlap
-#adverb-rx-ov          ov
 #adverb-rx-ratchet     ratchet
 #adverb-rx-r           r
 
