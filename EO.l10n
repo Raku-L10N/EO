@@ -148,7 +148,7 @@ core-cmp-ok         kmp-bone
 
 # KEY         TRANSLATION
 #core-decode   decode
-#core-deepmap  deepmap
+core-deepmap   profundmapu
 core-defined   difinita
 #core-diag     diag
 core-die       mortu
@@ -156,7 +156,7 @@ core-dies-ok   mortas-bone
 #core-dir      dir
 core-does-ok   faras-bone
 core-done      farita
-#core-duckmap  duckmap
+core-duckmap   anasmapu
 
 # KEY               TRANSLATION
 #core-elems          elems
@@ -227,11 +227,11 @@ core-lives-ok  vivas-bone
 
 # KEY        TRANSLATION
 #core-make    make
-#core-map     map
+core-map     mapu
 #core-match   match
-#core-max     max
-#core-min     min
-#core-minmax  minmax
+core-max     maks
+core-min     min
+core-minmax  minmaks
 #core-mix     mix
 #core-mkdir   mkdir
 #core-move    move
@@ -275,7 +275,7 @@ core-printf         printfu
 # KEY            TRANSLATION
 #core-rand        rand
 core-redo         refaru
-#core-reduce      reduce
+core-reduce       reduktu
 #core-repeated    repeated
 #core-repl        repl
 core-return       resendu
@@ -309,8 +309,8 @@ core-sleep         dormu
 #core-slurp        slurp
 #core-snip         snip
 #core-snitch       snitch
-core-so           ja
-#core-sort         sort
+core-so            ja
+core-sort          ordigu
 #core-splice       splice
 #core-split        split
 #core-sprintf      sprintf
