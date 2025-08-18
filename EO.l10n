@@ -50,8 +50,8 @@ adverb-rx-pos         pozicie
 adverb-rx-p           al
 adverb-rx-exhaustive  elĉerpe | elcherpe | elcxerpe
 adverb-rx-ex          ĉio
-#adverb-rx-g           g
-#adverb-rx-global      global
+adverb-rx-global      plene
+adverb-rx-g           oze
 #adverb-rx-i           i
 #adverb-rx-ignorecase  ignorecase
 #adverb-rx-ignoremark  ignoremark
