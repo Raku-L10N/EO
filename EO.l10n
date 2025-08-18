@@ -186,7 +186,7 @@ core-first          unua
 #core-get   get
 #core-getc  getc
 #core-gist  gist
-#core-grep  grep
+core-grep   grepu
 
 # KEY      TRANSLATION
 #core-hash  hash
