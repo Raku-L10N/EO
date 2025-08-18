@@ -64,8 +64,8 @@ adverb-rx-samemark    samkromsigne
 adverb-rx-mm          tia
 adverb-rx-sigspace    spacize
 adverb-rx-s           ize
-#adverb-rx-samespace   samespace
-#adverb-rx-ss          bis
+adverb-rx-samespace   samespace
+adverb-rx-ss          bis
 
 #adverb-rx-ratchet     ratchet
 #adverb-rx-r           r
