@@ -101,7 +101,7 @@ constraint-where   kie
 #core-all               all
 #core-antipairs         antipairs
 #core-any               any
-#core-append            append
+core-append            alpendigu
 #core-ast               ast
 #core-atomic-add-fetch  atomic-add-fetch
 #core-atomic-assign     atomic-assign
