@@ -100,7 +100,7 @@ constraint-where   kie
 #core-abs               abs
 #core-all               all
 #core-antipairs         antipairs
-#core-any               any
+core-any               ajn
 #core-append            append
 #core-ast               ast
 #core-atomic-add-fetch  atomic-add-fetch
