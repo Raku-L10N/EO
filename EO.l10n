@@ -97,7 +97,8 @@ block-without    sen
 constraint-where   kie
 
 # KEY                  TRANSLATION
-#core-abs               abs
+# short of absolute value/absoluta valoro
+core-abs               abs
 #core-all               all
 #core-antipairs         antipairs
 #core-any               any
