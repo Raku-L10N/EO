@@ -190,7 +190,7 @@ core-grep   grepu
 
 # KEY      TRANSLATION
 #core-hash  hash
-core-head  fronto
+core-head  kapo
 
 # KEY           TRANSLATION
 #core-indent     indent
@@ -331,7 +331,7 @@ core-sort          ordigu
 #core-symlink      symlink
 
 # KEY               TRANSLATION
-core-tail           dorso
+core-tail           vosto
 #core-take           take
 #core-take-rw        take-rw
 #core-tc             tc
