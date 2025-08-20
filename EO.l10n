@@ -140,7 +140,7 @@ core-can-ok         povas-bone
 #core-close         close
 core-cmp-ok         kmp-bone
 #core-codes         codes
-#core-comb          comb
+core-comb           kombu
 core-combinations   kombinaĵoj
 #core-conj          conj
 #core-contains      contains
