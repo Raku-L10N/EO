@@ -129,11 +129,8 @@ core-can-ok         povas-bone
 #core-categorize    categorize
 #core-ceiling       ceiling
 #core-chars         chars
-#core-chdir         chdir
-#core-chmod         chmod
 #core-chomp         chomp
 #core-chop          chop
-#core-chown         chown
 #core-chr           chr
 #core-chrs          chrs
 #core-classify      classify
@@ -146,6 +143,22 @@ core-combinations   kombinaĵoj
 #core-contains      contains
 #core-cross         cross
 
+# Terms taken from Unix base command jargon
+# KEY         TRANSLATION
+#core-chown     chown
+#core-chmod     chmod
+#core-chdir     chdir
+#core-dir       dir
+#named-dirname  dirname
+#core-rmdir     rmdir
+#core-mkdir     mkdir
+#named-basename basename
+#core-link      link
+#core-unlink    unlink
+core-printf     printfu
+core-print      printu
+
+
 # KEY         TRANSLATION
 #core-decode   decode
 core-deepmap   profundmapu
@@ -153,7 +166,6 @@ core-defined   difinita
 #core-diag     diag
 core-die       mortu
 core-dies-ok   mortas-bone
-#core-dir      dir
 core-does-ok   faras-bone
 core-done      farita
 core-duckmap   anasmapu
@@ -220,9 +232,9 @@ core-last       lasta
 #core-lc        lc
 core-like       simila
 #core-lines     lines
-#core-link      link
 #core-list      list
 core-lives-ok  vivas-bone
+# Stands for "Least Significant Bit".
 #core-lsb       lsb
 
 # KEY        TRANSLATION
@@ -233,7 +245,6 @@ core-max     maks
 core-min     min
 core-minmax  minmaks
 #core-mix     mix
-#core-mkdir   mkdir
 #core-move    move
 #core-msb     msb
 
@@ -265,8 +276,6 @@ core-permutations   permutaĵoj
 core-plan           planas
 #core-pop           pop
 #core-prepend       prepend
-core-print          printu
-core-printf         printfu
 #core-proceed       proceed
 #core-prompt        prompt
 #core-push          push
@@ -282,7 +291,6 @@ core-return       resendu
 #core-return-rw   return-rw
 #core-reverse     reverse
 #core-rindex      rindex
-#core-rmdir       rmdir
 #core-roll        roll
 #core-roots       roots
 #core-rotate      rotate
@@ -357,7 +365,6 @@ core-tail           vosto
 #core-unival    unival
 #core-univals   univals
 core-unlike     malsimila
-#core-unlink    unlink
 #core-unpolar   unpolar
 #core-unshift   unshift
 core-use-ok     uzas-bone
@@ -470,7 +477,6 @@ multi-only    nur
 #named-auth      auth
 
 # KEY            TRANSLATION
-#named-basename   basename
 #named-batch      batch
 #named-bin        bin
 #named-bleed      bleed
@@ -498,7 +504,6 @@ multi-only    nur
 #named-day       day
 #named-degree    degree
 #named-delete    delete
-#named-dirname   dirname
 
 # KEY             TRANSLATION
 #named-elems       elems
