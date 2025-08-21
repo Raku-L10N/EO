@@ -129,9 +129,9 @@ core-can-ok         povas-bone
 #core-categorize    categorize
 #core-ceiling       ceiling
 #core-chars         chars
-#core-chdir         chdir
-core-chmod         almodaligi
-core-chown         alproprigi
+core-chdir         aldirejigu
+core-chmod         almodaligu
+core-chown         alproprigu
 #core-chomp         chomp
 #core-chop          chop
 #core-chr           chr
