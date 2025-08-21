@@ -116,7 +116,7 @@ core-any               ajn
 core-await              atendu
 
 # KEY          TRANSLATION
-#core-bag       bag
+core-bag       sako
 #core-bail-out  bail-out
 core-bless      benu
 
