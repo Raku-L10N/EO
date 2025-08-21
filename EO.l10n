@@ -130,7 +130,7 @@ core-can-ok         povas-bone
 #core-ceiling       ceiling
 #core-chars         chars
 #core-chdir         chdir
-#core-chmod         chmod
+core-chmod         almodaligi
 core-chown         alproprigi
 #core-chomp         chomp
 #core-chop          chop
