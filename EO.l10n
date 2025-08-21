@@ -88,7 +88,7 @@ block-repeat     ripetu
 block-unless     kromse
 block-until      ĝis
 block-when       kiam
-block-whenever   kiamajn
+block-whenever   ĉiam-ajn | chiam-ajn | cxiam-ajn
 block-while      dum
 block-with       kun
 block-without    sen
