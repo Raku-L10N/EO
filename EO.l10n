@@ -129,11 +129,11 @@ core-can-ok         povas-bone
 #core-categorize    categorize
 #core-ceiling       ceiling
 #core-chars         chars
-#core-chdir         chdir
-#core-chmod         chmod
+core-chdir         aldirejigu | chdir
+core-chmod         almodaligu | chmod
+core-chown         alproprigu | chown
 #core-chomp         chomp
 #core-chop          chop
-#core-chown         chown
 #core-chr           chr
 #core-chrs          chrs
 #core-classify      classify
@@ -233,7 +233,6 @@ core-max     maks
 core-min     min
 core-minmax  minmaks
 #core-mix     mix
-#core-mkdir   mkdir
 #core-move    move
 #core-msb     msb
 
