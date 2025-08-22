@@ -131,8 +131,8 @@ core-can-ok         povas-bone
 #core-chars         chars
 #core-chdir         chdir
 #core-chmod         chmod
-#core-chomp         chomp
-core-chop          ĉoperu
+core-chomp         feĉopiku
+core-chop          ĉopu
 #core-chown         chown
 #core-chr           chr
 #core-chrs          chrs
