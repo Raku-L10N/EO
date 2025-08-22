@@ -210,8 +210,8 @@ core-isa-ok      isa-bone
 #core-join  join
 
 # KEY      TRANSLATION
-#core-key   key
-#core-keys  keys
+core-key   kapo
+core-keys  kapoj
 #core-kv    kv
 
 # KEY          TRANSLATION
@@ -541,7 +541,7 @@ multi-only    nur
 
 # KEY      TRANSLATION
 #named-k    k
-#named-key  key
+named-key  kapo
 #named-kv   kv
 
 # KEY            TRANSLATION
