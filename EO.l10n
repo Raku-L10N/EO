@@ -101,7 +101,7 @@ constraint-where   kie
 core-all               ĉiuj
 #core-antipairs         antipairs
 core-any               ajn
-#core-append            append
+core-append            alpendigu
 #core-ast               ast
 #core-atomic-add-fetch  atomic-add-fetch
 #core-atomic-assign     atomic-assign
