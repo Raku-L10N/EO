@@ -126,7 +126,7 @@ core-bless      benu
 #core-callwith      callwith
 core-can-ok         povas-bone
 #core-cas           cas
-#core-categorize    categorize
+core-categorize     kategoriigu
 #core-ceiling       ceiling
 #core-chars         chars
 #core-chdir         chdir
@@ -136,7 +136,7 @@ core-can-ok         povas-bone
 #core-chown         chown
 #core-chr           chr
 #core-chrs          chrs
-#core-classify      classify
+core-classify       klasigu
 #core-close         close
 core-cmp-ok         kmp-bone
 #core-codes         codes
@@ -144,7 +144,7 @@ core-comb           kombu
 core-combinations   kombinaĵoj
 #core-conj          conj
 #core-contains      contains
-#core-cross         cross
+core-cross          krucigu
 
 # KEY         TRANSLATION
 #core-decode   decode
@@ -159,10 +159,10 @@ core-done      farita
 core-duckmap   anasmapu
 
 # KEY               TRANSLATION
-#core-elems          elems
+core-elems           elemoj
 #core-emit           emit
 #core-encode         encode
-#core-end            end
+core-end             fino
 #core-ends-with      ends-with
 core-eval-dies-ok   taksi-mortas-bone
 core-eval-lives-ok  taksi-vivas-bone
@@ -179,13 +179,13 @@ core-first          unua
 #core-flip          flip
 #core-floor         floor
 #core-flunk         flunk
-#core-fmt           fmt
+core-fmt            formatu
 #core-full-barrier  full-barrier
 
 # KEY      TRANSLATION
 #core-get   get
 #core-getc  getc
-#core-gist  gist
+core-gist   esenco
 core-grep   grepu
 
 # KEY      TRANSLATION
@@ -207,7 +207,7 @@ core-isa-ok      isa-bone
 #core-item       item
 
 # KEY      TRANSLATION
-#core-join  join
+core-join   kunigu
 
 # KEY      TRANSLATION
 #core-key   key
@@ -221,7 +221,7 @@ core-last       lasta
 core-like       simila
 #core-lines     lines
 #core-link      link
-#core-list      list
+core-list       listo
 core-lives-ok  vivas-bone
 #core-lsb       lsb
 
@@ -261,7 +261,8 @@ core-open   malfermu
 #core-parse-base    parse-base
 core-pass           pasigu
 core-permutations   permutaĵoj
-#core-pick          pick
+# Should likely only keep one, both presented for conversation
+core-pick           pluku | elektu
 core-plan           planas
 #core-pop           pop
 #core-prepend       prepend
@@ -283,9 +284,9 @@ core-return       resendu
 #core-reverse     reverse
 #core-rindex      rindex
 #core-rmdir       rmdir
-#core-roll        roll
+core-roll         rulu
 #core-roots       roots
-#core-rotate      rotate
+core-rotate       turnu
 #core-round       round
 #core-roundrobin  roundrobin
 #core-run         run
@@ -327,7 +328,7 @@ core-sort          ordigu
 #core-substr-rw    substr-rw
 #core-subtest      subtest
 #core-succeed      succeed
-#core-sum          sum
+core-sum           sumigu
 #core-symlink      symlink
 
 # KEY               TRANSLATION
@@ -373,7 +374,7 @@ core-warn       avertu
 #core-words     words
 
 # KEY     TRANSLATION
-#core-zip  zip
+core-zip   zipu
 
 # KEY                   TRANSLATION
 #enum-BigEndian          BigEndian
