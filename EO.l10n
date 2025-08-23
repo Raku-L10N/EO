@@ -179,7 +179,7 @@ core-first          unua
 #core-flip          flip
 #core-floor         floor
 #core-flunk         flunk
-core-fmt            formatu
+core-fmt            fmtu
 #core-full-barrier  full-barrier
 
 # KEY      TRANSLATION
@@ -261,8 +261,7 @@ core-open   malfermu
 #core-parse-base    parse-base
 core-pass           pasigu
 core-permutations   permutaĵoj
-# Should likely only keep one, both presented for conversation
-core-pick           pluku | elektu
+core-pick           pluku
 core-plan           planas
 #core-pop           pop
 #core-prepend       prepend
