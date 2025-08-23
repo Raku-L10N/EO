@@ -189,7 +189,7 @@ core-flip          renversu
 core-grep   grepu
 
 # KEY      TRANSLATION
-#core-hash  hash
+core-hash  haketo
 core-head  kapo
 
 # KEY           TRANSLATION
@@ -227,12 +227,12 @@ core-lives-ok  vivas-bone
 
 # KEY        TRANSLATION
 #core-make    make
-core-map     mapu
+core-map      mapu
 #core-match   match
-core-max     maks
-core-min     min
-core-minmax  minmaks
-#core-mix     mix
+core-max      maks
+core-min      min
+core-minmax   minmaks
+core-mix      mikso
 #core-mkdir   mkdir
 #core-move    move
 #core-msb     msb
