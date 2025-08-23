@@ -705,7 +705,7 @@ prefix-so    ja
 
 # KEY              TRANSLATION
 routine-method      metodo
-routine-regex       regekso
+routine-regex       regekso | regex
 routine-rule        regulo
 routine-sub         procedo
 routine-submethod   submetodo
