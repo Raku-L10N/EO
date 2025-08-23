@@ -252,8 +252,8 @@ core-note         notu
 core-ok     bone
 core-one    unu
 core-open   malfermu
-#core-ord   ord
-#core-ords  ords
+core-ord   ord
+core-ords  ordj | ords
 
 # KEY              TRANSLATION
 #core-pair          pair
