@@ -382,12 +382,12 @@ enum-False               Malvero
 #enum-FileChanged        FileChanged
 #enum-FileRenamed        FileRenamed
 #enum-Kept               Kept
-#enum-Less               Less
+enum-Less                Malplia
 #enum-LittleEndian       LittleEndian
-#enum-More               More
+enum-More                Plia
 #enum-NativeEndian       NativeEndian
 #enum-Planned            Planned
-#enum-Same               Same
+enum-Same                Sama
 #enum-SeekFromBeginning  SeekFromBeginning
 #enum-SeekFromCurrent    SeekFromCurrent
 #enum-SeekFromEnd        SeekFromEnd
