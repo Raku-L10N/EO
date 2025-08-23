@@ -125,6 +125,8 @@ core-bless      benu
 #core-callsame      callsame
 #core-callwith      callwith
 core-can-ok         povas-bone
+# Compare-And-Swap (CAS)
+# Performs an atomic compare and swap of the native integer value in a target location
 #core-cas           cas
 #core-categorize    categorize
 #core-ceiling       ceiling
