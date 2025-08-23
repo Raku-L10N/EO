@@ -44,36 +44,42 @@ adverb-pc-exists   ekzistas
 #adverb-q-x           x
 
 # KEY                 TRANSLATION
-#adverb-rx-c           c
-#adverb-rx-continue    continue
-#adverb-rx-ex          ex
-#adverb-rx-exhaustive  exhaustive
-#adverb-rx-g           g
-#adverb-rx-global      global
-#adverb-rx-i           i
-#adverb-rx-ignorecase  ignorecase
-#adverb-rx-ignoremark  ignoremark
-#adverb-rx-ii          ii
-#adverb-rx-m           m
-#adverb-rx-mm          mm
-#adverb-rx-nd          nd
-#adverb-rx-nth         nth
-#adverb-rx-ov          ov
-#adverb-rx-overlap     overlap
-#adverb-rx-p           p
-#adverb-rx-pos         pos
-#adverb-rx-r           r
-#adverb-rx-ratchet     ratchet
-#adverb-rx-rd          rd
-#adverb-rx-s           s
-#adverb-rx-samecase    samecase
-#adverb-rx-samemark    samemark
-#adverb-rx-samespace   samespace
-#adverb-rx-sigspace    sigspace
-#adverb-rx-ss          ss
-#adverb-rx-st          st
-#adverb-rx-to          to
-#adverb-rx-x           x
+adverb-rx-ratchet     antaŭize | antauhize | antauxize
+adverb-rx-r           paf
+adverb-rx-continue    komence
+adverb-rx-c           ek
+adverb-rx-pos         pozicie
+adverb-rx-p           de
+adverb-rx-to          al
+adverb-rx-exhaustive  elĉerpe | elcherpe | elcxerpe
+adverb-rx-ex          ĉio | chio | cxio
+adverb-rx-overlap     ĉerpege
+adverb-rx-ov          ege
+adverb-rx-global      plene
+adverb-rx-g           oze
+adverb-rx-ignorecase  ajnuskle
+adverb-rx-i           ajn
+adverb-rx-samecase    samuskle
+adverb-rx-ii          sam
+adverb-rx-ignoremark  ajnkromsigne
+adverb-rx-m           ume
+adverb-rx-samemark    samkromsigne
+adverb-rx-mm          tia
+adverb-rx-sigspace    spacize
+adverb-rx-s           ize
+adverb-rx-samespace   samespace
+adverb-rx-ss          bis
+# counting, possibly from x-times
+adverb-rx-x           da
+# Esperanto use only a single common -a suffix for all ordinals
+# Here -st as in "first" rendered as 1st
+adverb-rx-st          a
+# Here -nd as in "second" rendered as 2nd
+# adverb-rx-nd          a
+# Here -rd as in "third" rendered as 3rd
+# adverb-rx-rd          a
+# Here used as a sort of preposition, although alluding the generic -th suffix
+adverb-rx-nth         ĉe
 
 # KEY           TRANSLATION
 block-default    defaŭlte
