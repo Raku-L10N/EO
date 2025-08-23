@@ -121,9 +121,9 @@ core-bag       sako
 core-bless      benu
 
 # KEY              TRANSLATION
-#core-callframe     callframe
-#core-callsame      callsame
-#core-callwith      callwith
+core-callframe     vokframo
+core-callsame      voksame
+core-callwith      vokperu
 core-can-ok         povas-bone
 #core-cas           cas
 #core-categorize    categorize
