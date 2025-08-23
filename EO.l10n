@@ -705,10 +705,10 @@ prefix-so    ja
 
 # KEY              TRANSLATION
 routine-method      metodo
-#routine-regex      regex
+routine-regex       regekso
 routine-rule        regulo
 routine-sub         procedo
-routine-submethod  submetodo
+routine-submethod   submetodo
 routine-token       signo
 
 # KEY           TRANSLATION
