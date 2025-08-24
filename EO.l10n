@@ -144,7 +144,7 @@ core-comb           kombu
 core-combinations   kombinaĵoj
 #core-conj          conj
 #core-contains      contains
-core-cross          krucigu
+core-cross          krucu
 
 # KEY         TRANSLATION
 #core-decode   decode
