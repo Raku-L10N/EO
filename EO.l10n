@@ -126,7 +126,7 @@ core-bless      benu
 #core-callwith      callwith
 core-can-ok         povas-bone
 #core-cas           cas
-#core-categorize    categorize
+core-categorize    kategoriu
 #core-ceiling       ceiling
 #core-chars         chars
 #core-chdir         chdir
