@@ -134,8 +134,8 @@ core-can-ok         povas-bone
 core-chomp         feĉopiku
 core-chop          ĉopu
 #core-chown         chown
-core-chr           sgn | kr | chr
-core-chrs          sgnj | krj | chrs
+core-chr           kr | chr
+core-chrs          krj | chrs
 #core-classify      classify
 #core-close         close
 core-cmp-ok         kmp-bone
