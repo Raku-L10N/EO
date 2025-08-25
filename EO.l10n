@@ -116,7 +116,7 @@ core-append            alpendigu
 core-await              atendu
 
 # KEY          TRANSLATION
-core-bag       sako
+core-bag        multaro | pluraro
 #core-bail-out  bail-out
 core-bless      benu
 
