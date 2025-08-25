@@ -1,5 +1,3 @@
-[![Actions Status](https://github.com/Raku-L10N/EO/actions/workflows/linux.yml/badge.svg)](https://github.com/Raku-L10N/EO/actions) [![Actions Status](https://github.com/Raku-L10N/EO/actions/workflows/macos.yml/badge.svg)](https://github.com/Raku-L10N/EO/actions) [![Actions Status](https://github.com/Raku-L10N/EO/actions/workflows/windows.yml/badge.svg)](https://github.com/Raku-L10N/EO/actions)
-
 Esbelando
 =========
 
@@ -39,32 +37,6 @@ se Vero {
 
 <br>
 
-La Blua Sufiksa Regulo de Esbelando
-===================================
-
-Substantivoj
-------------
-
-  * Substantivoj ĉiuj finiĝas per **`-o`**
-
-Verboj
-------
-
-  * `procedo`j kaj `metodo`j de uzantoj ĉiam uzas la finaĵon **`-i`**.
-
-  * Internaj instrukcioj de la lingvo mem:
-
-    * **Imperativa** (ordonaj) finiĝas per **`-u`**
-
-    * **Deklarativa** (priskribaj) finiĝas per **`-as`**
-
-Kial Blua?
-----------
-
-Ĉar **Esbelando** baziĝas sur la sufiksosistemo de Esperanto, sed faras kelkajn modifojn. La ĉefa koloro de **Raku** estas malhelblua, dum la simbolo de **Esperanto** estas verda. **Bluo situas inter malhelbluo kaj verdo**.
-
-<br>
-
 Priskribo
 =========
 
@@ -75,11 +47,15 @@ La distribuaĵo `L10N::EO` provizas subtenon por Raku en Esperanto. Ĝi instalas
 Aŭtoroj
 =======
 
-  * Aoran Zeng <ccmywish@qq.com>
+La ordo baziĝas sur la kontributempo.
+
+  * Liz <l10n@raku.org>
 
   * Daniel Mita
 
-  * Liz <l10n@raku.org>
+  * Aoran Zeng <ccmywish@qq.com>
+
+  * psychoslave
 
 <br>
 
