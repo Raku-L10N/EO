@@ -139,7 +139,7 @@ core-chop          ĉopu
 #core-classify      classify
 #core-close         close
 core-cmp-ok         kmp-bone
-#core-codes         codes
+core-codes         koderiomo
 core-comb           kombu
 core-combinations   kombinaĵoj
 #core-conj          conj
