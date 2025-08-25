@@ -97,7 +97,7 @@ block-without    sen
 constraint-where   kie
 
 # KEY                  TRANSLATION
-#core-abs               abs
+core-abs               abs
 core-all               ĉiuj
 #core-antipairs         antipairs
 core-any               ajn
