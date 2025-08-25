@@ -480,7 +480,7 @@ multi-only    nur
 #named-catch       catch
 #named-check       check
 #named-chomp       chomp
-#named-close       close
+named-close       fermenda
 #named-command     command
 #named-complement  complement
 #named-completely  completely
