@@ -137,7 +137,7 @@ core-chop          ĉopu
 #core-chr           chr
 #core-chrs          chrs
 #core-classify      classify
-#core-close         close
+core-close         fermu
 core-cmp-ok         kmp-bone
 #core-codes         codes
 core-comb           kombu
