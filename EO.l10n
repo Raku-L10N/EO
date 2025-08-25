@@ -127,7 +127,7 @@ core-bless      benu
 core-can-ok         povas-bone
 #core-cas           cas
 #core-categorize    categorize
-#core-ceiling       ceiling
+core-ceiling       plafono
 #core-chars         chars
 #core-chdir         chdir
 #core-chmod         chmod
@@ -177,7 +177,7 @@ core-exit            eliru
 core-first          unua
 #core-flat          flat
 core-flip          renversu
-#core-floor         floor
+core-floor         planko
 #core-flunk         flunk
 #core-fmt           fmt
 #core-full-barrier  full-barrier
