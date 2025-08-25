@@ -186,7 +186,7 @@ core-flip          renversu
 #core-get   get
 #core-getc  getc
 #core-gist  gist
-core-grep   grepu
+core-grep   graplu | grep
 
 # KEY      TRANSLATION
 core-hash  haketo
