@@ -150,7 +150,7 @@ core-contains      entenas
 #core-decode   decode
 core-deepmap   profundmapu
 core-defined   difinita
-#core-diag     diag
+core-diag     sensu
 core-die       mortu
 core-dies-ok   mortas-bone
 #core-dir      dir
