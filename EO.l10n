@@ -178,7 +178,7 @@ core-first          unua
 core-flat          platigu
 core-flip          renversu
 core-floor         planko
-#core-flunk         flunk
+core-flunk         fiasku
 #core-fmt           fmt
 #core-full-barrier  full-barrier
 
