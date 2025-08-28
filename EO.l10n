@@ -171,8 +171,8 @@ core-exit            eliru
 #core-expmod         expmod
 
 # KEY              TRANSLATION
-#core-fail          fail
-#core-fails-like    fails-like
+core-fail          misu
+core-fails-like    similmisas
 #core-fc            fc
 core-first          unua
 #core-flat          flat
