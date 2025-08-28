@@ -160,7 +160,7 @@ core-duckmap   anasmapu
 
 # KEY               TRANSLATION
 #core-elems          elems
-#core-emit           emit
+core-emit           emisiu
 #core-encode         encode
 #core-end            end
 #core-ends-with      ends-with
