@@ -180,7 +180,7 @@ core-flip          renversu
 core-floor         planko
 core-flunk         fiasku
 #core-fmt           fmt
-#core-full-barrier  full-barrier
+core-full-barrier  elbaru
 
 # KEY      TRANSLATION
 #core-get   get
