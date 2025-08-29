@@ -88,7 +88,7 @@ block-repeat     ripetu
 block-unless     kromse
 block-until      ĝis
 block-when       kiam
-block-whenever   kiamajn
+block-whenever   ĉiam-ajn | chiam-ajn | cxiam-ajn
 block-while      dum
 block-with       kun
 block-without    sen
@@ -97,11 +97,11 @@ block-without    sen
 constraint-where   kie
 
 # KEY                  TRANSLATION
-#core-abs               abs
-#core-all               all
+core-abs               abs
+core-all               ĉiuj
 #core-antipairs         antipairs
-#core-any               any
-#core-append            append
+core-any               ajn
+core-append            alpendigu
 #core-ast               ast
 #core-atomic-add-fetch  atomic-add-fetch
 #core-atomic-assign     atomic-assign
@@ -116,8 +116,8 @@ constraint-where   kie
 core-await              atendu
 
 # KEY          TRANSLATION
-#core-bag       bag
-#core-bail-out  bail-out
+core-bag       sako
+core-bail-out   kaŭciu
 core-bless      benu
 
 # KEY              TRANSLATION
@@ -127,7 +127,7 @@ core-bless      benu
 core-can-ok         povas-bone
 #core-cas           cas
 #core-categorize    categorize
-#core-ceiling       ceiling
+core-ceiling       plafono
 #core-chars         chars
 core-dir            direjlisto | dir
 core-rmdir          fordirejigu | rmdir
@@ -137,6 +137,8 @@ core-chmod          almodaligu | chmod
 core-chown          alproprigu | chown
 #core-chomp         chomp
 #core-chop          chop
+core-chomp         feĉopiku
+core-chop          ĉopu
 #core-chr           chr
 #core-chrs          chrs
 #core-classify      classify
@@ -146,7 +148,7 @@ core-cmp-ok         kmp-bone
 core-comb           kombu
 core-combinations   kombinaĵoj
 #core-conj          conj
-#core-contains      contains
+core-contains      entenas
 #core-cross         cross
 
 # KEY         TRANSLATION
@@ -162,7 +164,7 @@ core-duckmap   anasmapu
 
 # KEY               TRANSLATION
 #core-elems          elems
-#core-emit           emit
+core-emit           emisiu
 #core-encode         encode
 #core-end            end
 #core-ends-with      ends-with
@@ -178,8 +180,8 @@ core-exit            eliru
 #core-fc            fc
 core-first          unua
 #core-flat          flat
-#core-flip          flip
-#core-floor         floor
+core-flip          renversu
+core-floor         planko
 #core-flunk         flunk
 #core-fmt           fmt
 #core-full-barrier  full-barrier
@@ -191,14 +193,14 @@ core-first          unua
 core-grep   grepu
 
 # KEY      TRANSLATION
-#core-hash  hash
+core-hash  haketo
 core-head  kapo
 
 # KEY           TRANSLATION
 #core-indent     indent
 #core-index      index
 #core-indices    indices
-#core-invert     invert
+core-invert     interŝanĝu
 core-is          estas
 #core-is-approx  estas-approx
 #core-is-deeply  estas-deeply
@@ -228,12 +230,12 @@ core-lives-ok  vivas-bone
 
 # KEY        TRANSLATION
 #core-make    make
-core-map     mapu
+core-map      mapu
 #core-match   match
-core-max     maks
-core-min     min
-core-minmax  minmaks
-#core-mix     mix
+core-max      maks
+core-min      min
+core-minmax   minmaks
+core-mix      mikso
 #core-move    move
 #core-msb     msb
 
@@ -280,7 +282,7 @@ core-reduce       reduktu
 #core-repl        repl
 core-return       resendu
 #core-return-rw   return-rw
-#core-reverse     reverse
+core-reverse     inversigu
 #core-rindex      rindex
 #core-roll        roll
 #core-roots       roots
@@ -359,7 +361,7 @@ core-unlike     malsimila
 #core-unlink    unlink
 #core-unpolar   unpolar
 #core-unshift   unshift
-core-use-ok     usas-bone
+core-use-ok     uzas-bone
 
 # KEY        TRANSLATION
 #core-val     val
@@ -381,12 +383,12 @@ enum-False               Malvero
 #enum-FileChanged        FileChanged
 #enum-FileRenamed        FileRenamed
 #enum-Kept               Kept
-#enum-Less               Less
+enum-Less                Malplia
 #enum-LittleEndian       LittleEndian
-#enum-More               More
+enum-More                Plia
 #enum-NativeEndian       NativeEndian
 #enum-Planned            Planned
-#enum-Same               Same
+enum-Same                Sama
 #enum-SeekFromBeginning  SeekFromBeginning
 #enum-SeekFromCurrent    SeekFromCurrent
 #enum-SeekFromEnd        SeekFromEnd
@@ -704,10 +706,10 @@ prefix-so    ja
 
 # KEY              TRANSLATION
 routine-method      metodo
-#routine-regex      regex
+routine-regex       regekso | regex
 routine-rule        regulo
 routine-sub         procedo
-routine-submethod  submetodo
+routine-submethod   submetodo
 routine-token       signo
 
 # KEY           TRANSLATION
