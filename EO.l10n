@@ -168,7 +168,7 @@ core-eval-dies-ok   taksi-mortas-bone
 core-eval-lives-ok  taksi-vivas-bone
 core-exit            eliru
 #core-exp            exp
-#core-expmod         expmod
+core-expmod         modulepotencigu
 
 # KEY              TRANSLATION
 #core-fail          fail
