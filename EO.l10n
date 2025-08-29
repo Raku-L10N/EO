@@ -194,8 +194,8 @@ core-head  kapo
 
 # KEY           TRANSLATION
 #core-indent     indent
-#core-index      index
-#core-indices    indices
+core-index      indekso
+core-indices    indeksoj
 #core-indir      indir
 core-invert     interŝanĝu
 core-is          estas
@@ -281,7 +281,7 @@ core-reduce       reduktu
 core-return       resendu
 #core-return-rw   return-rw
 core-reverse     inversigu
-#core-rindex      rindex
+core-rindex      finindekso
 #core-rmdir       rmdir
 #core-roll        roll
 #core-roots       roots
