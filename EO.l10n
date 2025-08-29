@@ -224,7 +224,7 @@ core-like       simila
 #core-list      list
 core-lives-ok  vivas-bone
 # Least Significant Bit -> malplej signifa bito/duumo
-core-lsb        lsb
+core-lsb        mejpezbito | lsb
 
 # KEY        TRANSLATION
 #core-make    make
