@@ -193,7 +193,7 @@ core-hash  haketo
 core-head  kapo
 
 # KEY           TRANSLATION
-core-indent     indentu
+core-indent     spacumu
 #core-index      index
 #core-indices    indices
 #core-indir      indir
