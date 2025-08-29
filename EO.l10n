@@ -200,7 +200,7 @@ core-head  kapo
 core-invert     interŝanĝu
 core-is          estas
 #core-is-approx  estas-approx
-#core-is-deeply  estas-deeply
+core-is-deeply  estas-ĉiea
 #core-is-prime   estas-prime
 core-isa-ok      isa-bone
 #core-isnt       isnt
