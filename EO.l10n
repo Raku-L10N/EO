@@ -184,7 +184,7 @@ core-floor         planko
 
 # KEY      TRANSLATION
 core-get   gajnu
-#core-getc  getc
+core-getc  k-gajnu
 #core-gist  gist
 core-grep   grepu
 
