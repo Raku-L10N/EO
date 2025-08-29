@@ -203,7 +203,7 @@ core-is          estas
 #core-is-deeply  estas-deeply
 #core-is-prime   estas-prime
 core-isa-ok      isa-bone
-#core-isnt       isnt
+core-isnt        neestas
 #core-item       item
 
 # KEY      TRANSLATION
