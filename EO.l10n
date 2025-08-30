@@ -161,7 +161,7 @@ core-duckmap   anasmapu
 # KEY               TRANSLATION
 #core-elems          elems
 core-emit           emisiu
-#core-encode         encode
+core-encode         kodu
 #core-end            end
 #core-ends-with      ends-with
 core-eval-dies-ok   taksi-mortas-bone
