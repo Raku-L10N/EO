@@ -201,7 +201,7 @@ core-invert     interŝanĝu
 core-is          estas
 #core-is-approx  estas-approx
 #core-is-deeply  estas-deeply
-#core-is-prime   estas-prime
+core-is-prime   estas-prima
 core-isa-ok      isa-bone
 #core-isnt       isnt
 #core-item       item
