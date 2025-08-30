@@ -147,7 +147,7 @@ core-contains      entenas
 #core-cross         cross
 
 # KEY         TRANSLATION
-#core-decode   decode
+core-decode   malkodu
 core-deepmap   profundmapu
 core-defined   difinita
 #core-diag     diag
@@ -160,7 +160,7 @@ core-duckmap   anasmapu
 
 # KEY               TRANSLATION
 #core-elems          elems
-#core-emit           emit
+core-emit           emisiu
 core-encode         kodu
 #core-end            end
 #core-ends-with      ends-with
