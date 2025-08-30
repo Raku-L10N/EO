@@ -219,8 +219,9 @@ core-last       lasta
 #core-lastcall  lastcall
 #core-lc        lc
 core-like       simila
-#core-lines     lines
-#core-link      link
+core-lines     linioj
+core-link      alligu
+core-unlink    forligu
 #core-list      list
 core-lives-ok  vivas-bone
 #core-lsb       lsb
@@ -357,7 +358,6 @@ core-tail           vosto
 #core-unival    unival
 #core-univals   univals
 core-unlike     malsimila
-#core-unlink    unlink
 #core-unpolar   unpolar
 #core-unshift   unshift
 core-use-ok     uzas-bone
