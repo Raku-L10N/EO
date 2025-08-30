@@ -147,7 +147,7 @@ core-contains      entenas
 #core-cross         cross
 
 # KEY         TRANSLATION
-#core-decode   decode
+core-decode   malkodu
 core-deepmap   profundmapu
 core-defined   difinita
 #core-diag     diag
