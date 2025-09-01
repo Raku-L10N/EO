@@ -10,7 +10,7 @@
 adverb-pc-delete   for
 adverb-pc-exists   ĉu | chu | cxu
 # Note "k" stands for key
-adverb-pc-k       kie
+adverb-pc-k       kia
 # Note "kv" stands for "key-value (enlisted together)"
 adverb-pc-kv      ane 
 # Note "p" stands for "pair (of index/key and the value of the element)"
@@ -214,8 +214,8 @@ core-isa-ok      isa-bone
 #core-join  join
 
 # KEY      TRANSLATION
-core-key   kie
-core-keys  kies
+core-key   kia
+core-keys  kiaj
 core-kv    ane
 
 # KEY          TRANSLATION
@@ -546,9 +546,9 @@ multi-only    nur
 
 # KEY      TRANSLATION
 # used in grep, without use of named-key alternative form
-named-k    kie
+named-k    kia
 # used in Pair, without use of named-k alternative form
-named-key  kie
+named-key  kia
 # used in grep, without use of named-key-value alternative form
 named-kv   ane
 
