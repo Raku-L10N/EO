@@ -129,11 +129,16 @@ core-can-ok         povas-bone
 #core-categorize    categorize
 core-ceiling       plafono
 #core-chars         chars
-#core-chdir         chdir
-#core-chmod         chmod
+core-dir            direjlisto | dir
+core-rmdir          fordirejigu | rmdir
+core-indir          laŭdirejigu | lauhdirejigu | lauxdirejigu | indir
+core-chdir          aldirejigu | chdir
+core-chmod          almodaligu | chmod
+core-chown          alproprigu | chown
+#core-chomp         chomp
+#core-chop          chop
 core-chomp         feĉopiku
 core-chop          ĉopu
-#core-chown         chown
 #core-chr           chr
 #core-chrs          chrs
 #core-classify      classify
@@ -153,7 +158,6 @@ core-defined   difinita
 #core-diag     diag
 core-die       mortu
 core-dies-ok   mortas-bone
-#core-dir      dir
 core-does-ok   faras-bone
 core-done      farita
 core-duckmap   anasmapu
@@ -196,7 +200,6 @@ core-head  kapo
 #core-indent     indent
 #core-index      index
 #core-indices    indices
-#core-indir      indir
 core-invert     interŝanĝu
 core-is          estas
 #core-is-approx  estas-approx
@@ -234,7 +237,6 @@ core-max      maks
 core-min      min
 core-minmax   minmaks
 core-mix      mikso
-#core-mkdir   mkdir
 #core-move    move
 #core-msb     msb
 
@@ -283,7 +285,6 @@ core-return       resendu
 #core-return-rw   return-rw
 core-reverse     inversigu
 #core-rindex      rindex
-#core-rmdir       rmdir
 #core-roll        roll
 #core-roots       roots
 #core-rotate      rotate
