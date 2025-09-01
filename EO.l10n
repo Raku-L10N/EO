@@ -15,7 +15,7 @@ adverb-pc-k       kie
 adverb-pc-kv      ane 
 # Note "p" stands for "pair (of index/key and the value of the element)"
 adverb-pc-p       ope 
-adverb-pc-v       aĵe | ajhe | ajxe
+adverb-pc-v       ere
 
 # KEY                TRANSLATION
 #adverb-q-a           a
@@ -40,7 +40,7 @@ adverb-pc-v       aĵe | ajhe | ajxe
 #adverb-q-scalar      scalar
 #adverb-q-single      single
 #adverb-q-to          to
-adverb-q-v            aĵe | ajhe | ajxe
+adverb-q-v            ere
 adverb-q-val          valorige
 #adverb-q-w           w
 #adverb-q-words       words
@@ -368,9 +368,9 @@ core-use-ok     usas-bone
 
 # KEY        TRANSLATION
 # NT: no cor-v apparently
-core-val     aĵe | ajhe | ajxe
+core-val     ere
 core-value   valorige
-core-values  ere
+core-values  ervice
 
 # KEY          TRANSLATION
 core-warn       avertu
@@ -634,7 +634,7 @@ named-kv   ane
 #named-update  update
 
 # KEY          TRANSLATION
-named-v        aĵe | ajhe | ajxe
+named-v        ere
 named-value    valorige
 #named-vent-at  vent-at
 #named-ver      ver
