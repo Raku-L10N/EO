@@ -235,7 +235,7 @@ core-min      min
 core-minmax   minmaks
 core-mix      mikso
 #core-mkdir   mkdir
-#core-move    move
+core-move    movu
 #core-msb     msb
 
 # KEY            TRANSLATION
