@@ -147,7 +147,7 @@ core-contains      entenas
 #core-cross         cross
 
 # KEY         TRANSLATION
-#core-decode   decode
+core-decode   malkodu
 core-deepmap   profundmapu
 core-defined   difinita
 #core-diag     diag
@@ -161,7 +161,7 @@ core-duckmap   anasmapu
 # KEY               TRANSLATION
 #core-elems          elems
 core-emit           emisiu
-#core-encode         encode
+core-encode         kodu
 #core-end            end
 #core-ends-with      ends-with
 core-eval-dies-ok   taksi-mortas-bone
@@ -203,7 +203,7 @@ core-is          estas
 #core-is-deeply  estas-deeply
 #core-is-prime   estas-prime
 core-isa-ok      isa-bone
-#core-isnt       isnt
+core-isnt        neestas
 core-item       aĵo | ajho | ajxo
 
 # KEY      TRANSLATION
@@ -219,14 +219,15 @@ core-last       lasta
 #core-lastcall  lastcall
 #core-lc        lc
 core-like       simila
-#core-lines     lines
-#core-link      link
+core-lines     linioj
+core-link      alligu
+core-unlink    forligu
 #core-list      list
 core-lives-ok  vivas-bone
 #core-lsb       lsb
 
-# KEY        TRANSLATION
-#core-make    make
+# KEY         TRANSLATION
+core-make     igu
 core-map      mapu
 #core-match   match
 core-max      maks
@@ -234,7 +235,7 @@ core-min      min
 core-minmax   minmaks
 core-mix      mikso
 #core-mkdir   mkdir
-#core-move    move
+core-move    movu
 #core-msb     msb
 
 # KEY            TRANSLATION
@@ -357,7 +358,6 @@ core-tail           vosto
 #core-unival    unival
 #core-univals   univals
 core-unlike     malsimila
-#core-unlink    unlink
 #core-unpolar   unpolar
 #core-unshift   unshift
 core-use-ok     uzas-bone
