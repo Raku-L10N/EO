@@ -121,9 +121,15 @@ core-bail-out   kaŭciu
 core-bless      benu
 
 # KEY              TRANSLATION
-#core-callframe     callframe
-#core-callsame      callsame
-#core-callwith      callwith
+core-callframe     vokframo
+core-callsame      voksame
+core-callwith      vokperu
+core-lastcall      vokĉesu
+core-samewith      voksameperu
+core-nextwith      vokotperu
+core-nextsame      vokotsame
+core-nextcallee    vokotludu
+
 core-can-ok         povas-bone
 #core-cas           cas
 #core-categorize    categorize
@@ -216,7 +222,6 @@ core-item       aĵo | ajho | ajxo
 
 # KEY          TRANSLATION
 core-last       lasta
-#core-lastcall  lastcall
 #core-lc        lc
 core-like       simila
 core-lines     linioj
@@ -241,9 +246,6 @@ core-move    movu
 # KEY            TRANSLATION
 #core-new         new
 #core-next        next
-#core-nextcallee  nextcallee
-#core-nextsame    nextsame
-#core-nextwith    nextwith
 #core-nok         nok
 core-none         neniu
 core-not          ne
@@ -294,7 +296,6 @@ core-reverse     inversigu
 # KEY             TRANSLATION
 #core-samecase     samecase
 #core-samemark     samemark
-#core-samewith     samewith
 core-say           diru
 #core-set          set
 #core-shell        shell
