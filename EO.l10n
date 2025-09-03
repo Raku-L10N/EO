@@ -167,7 +167,7 @@ core-encode         kodu
 core-eval-dies-ok   taksi-mortas-bone
 core-eval-lives-ok  taksi-vivas-bone
 core-exit            eliru
-#core-exp            exp
+core-exp            potencigu
 #core-expmod         expmod
 
 # KEY              TRANSLATION
