@@ -207,7 +207,7 @@ core-isnt        neestas
 core-item       aĵo | ajho | ajxo
 
 # KEY      TRANSLATION
-#core-join  join
+core-join  juntu
 
 # KEY      TRANSLATION
 #core-key   key
@@ -537,7 +537,7 @@ multi-only    nur
 #named-into        into
 
 # KEY         TRANSLATION
-#named-joiner  joiner
+named-joiner  junto
 
 # KEY      TRANSLATION
 #named-k    k
