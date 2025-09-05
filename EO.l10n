@@ -134,8 +134,8 @@ core-ceiling       plafono
 core-chomp         feĉopiku
 core-chop          ĉopu
 #core-chown         chown
-#core-chr           chr
-#core-chrs          chrs
+core-chr           kr | chr
+core-chrs          krj | chrs
 #core-classify      classify
 #core-close         close
 core-cmp-ok         kmp-bone
@@ -253,8 +253,8 @@ core-note         notu
 core-ok     bone
 core-one    unu
 core-open   malfermu
-#core-ord   ord
-#core-ords  ords
+core-ord   ord
+core-ords  ordj | ords
 
 # KEY              TRANSLATION
 #core-pair          pair
