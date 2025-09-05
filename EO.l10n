@@ -239,7 +239,7 @@ core-move    movu
 #core-msb     msb
 
 # KEY            TRANSLATION
-#core-new         new
+core-new         nova
 #core-next        next
 #core-nextcallee  nextcallee
 #core-nextsame    nextsame
