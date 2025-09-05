@@ -183,8 +183,8 @@ core-floor         planko
 #core-full-barrier  full-barrier
 
 # KEY      TRANSLATION
-#core-get   get
-#core-getc  getc
+core-get   gajnu
+core-getc  k-gajnu
 #core-gist  gist
 core-grep   grepu
 
@@ -296,7 +296,7 @@ core-reverse     inversigu
 #core-samemark     samemark
 #core-samewith     samewith
 core-say           diru
-#core-set          set
+core-set          garnu
 #core-shell        shell
 #core-shift        shift
 core-sign          signumo
