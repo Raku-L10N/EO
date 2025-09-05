@@ -103,7 +103,7 @@ core-all               ĉiuj
 core-any               ajn
 core-append            alpendigu
 #core-ast               ast
-#core-atomic-add-fetch  atomic-add-fetch
+core-atomic-add-fetch  atomaldoneŝargu
 #core-atomic-assign     atomic-assign
 #core-atomic-dec-fetch  atomic-dec-fetch
 #core-atomic-fetch      atomic-fetch
