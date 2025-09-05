@@ -299,7 +299,7 @@ core-say           diru
 #core-set          set
 #core-shell        shell
 #core-shift        shift
-#core-sign         sign
+core-sign          signumo
 #core-signal       signal
 #core-skip         skip
 #core-skip-rest    skip-rest
