@@ -37,7 +37,7 @@ adverb-pc-exists   ekzistas
 #adverb-q-single      single
 #adverb-q-to          to
 #adverb-q-v           v
-#adverb-q-val         val
+adverb-q-val         varo
 #adverb-q-w           w
 #adverb-q-words       words
 #adverb-q-ww          ww
@@ -363,9 +363,9 @@ core-unlike     malsimila
 core-use-ok     uzas-bone
 
 # KEY        TRANSLATION
-#core-val     val
-#core-value   value
-#core-values  values
+core-val     varo
+core-value   variaĵo
+core-values  variaĵoj
 
 # KEY          TRANSLATION
 core-warn       avertu
@@ -627,7 +627,7 @@ multi-only    nur
 
 # KEY          TRANSLATION
 #named-v        v
-#named-value    value
+named-value    variaĵo
 #named-vent-at  vent-at
 #named-ver      ver
 #named-volume   volume
@@ -684,7 +684,7 @@ phaser-UNDO      MALFARU
 #pragma-soft                soft
 #pragma-strict              strict
 #pragma-trace               trace
-#pragma-variables           variables
+pragma-variables           variantoj
 #pragma-worries             worries
 
 # KEY       TRANSLATION
