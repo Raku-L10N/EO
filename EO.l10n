@@ -186,7 +186,7 @@ core-floor         planko
 #core-get   get
 #core-getc  getc
 #core-gist  gist
-core-grep   grepu
+core-grep   grepumu | grep
 
 # KEY      TRANSLATION
 core-hash  haketo
@@ -266,8 +266,8 @@ core-permutations   permutaĵoj
 core-plan           planas
 #core-pop           pop
 #core-prepend       prepend
-core-print          printu
-core-printf         printfu
+core-print          printu | print
+core-printf         printumu | printf
 #core-proceed       proceed
 #core-prompt        prompt
 #core-push          push
@@ -314,7 +314,7 @@ core-so            ja
 core-sort          ordigu
 #core-splice       splice
 #core-split        split
-#core-sprintf      sprintf
+core-sprintf      ĉenprintumu | chenprintumu | cxenprintumu | sprintf
 #core-spurt        spurt
 #core-sqrt         sqrt
 #core-squish       squish
