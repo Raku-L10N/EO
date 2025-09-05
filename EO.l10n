@@ -244,7 +244,7 @@ core-move    movu
 #core-nextcallee  nextcallee
 #core-nextsame    nextsame
 #core-nextwith    nextwith
-#core-nok         nok
+core-nok         nebone
 core-none         neniu
 core-not          ne
 core-note         notu
