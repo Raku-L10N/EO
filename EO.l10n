@@ -229,7 +229,7 @@ core-lives-ok  vivas-bone
 # KEY         TRANSLATION
 core-make     igu
 core-map      mapu
-#core-match   match
+core-match   match
 core-max      maks
 core-min      min
 core-minmax   minmaks
