@@ -268,7 +268,7 @@ core-plan           planas
 #core-prepend       prepend
 core-print          printu
 core-printf         printfu
-#core-proceed       proceed
+core-proceed       avancu
 #core-prompt        prompt
 #core-push          push
 #core-put           put
