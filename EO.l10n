@@ -271,7 +271,7 @@ core-printf         printfu
 #core-proceed       proceed
 #core-prompt        prompt
 #core-push          push
-#core-put           put
+core-put           eĥu | ehhu | ehxu
 
 # KEY            TRANSLATION
 #core-rand        rand
