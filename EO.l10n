@@ -179,7 +179,7 @@ core-first          unua
 #core-flip          flip
 #core-floor         floor
 #core-flunk         flunk
-core-fmt            fmtu
+core-fmt            fmt
 #core-full-barrier  full-barrier
 
 # KEY      TRANSLATION
