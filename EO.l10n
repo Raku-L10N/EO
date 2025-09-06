@@ -259,7 +259,7 @@ core-open   malfermu
 # KEY              TRANSLATION
 #core-pair          pair
 #core-pairs         pairs
-core-parse-base    malbazu
+core-parse-base    bazparsu
 core-pass           pasigu
 core-permutations   permutaĵoj
 #core-pick          pick
