@@ -99,7 +99,7 @@ constraint-where   kie
 # KEY                  TRANSLATION
 core-abs               abs
 core-all               ĉiuj
-#core-antipairs         antipairs
+core-antipairs         antiparoj
 core-any               ajn
 core-append            alpendigu
 #core-ast               ast
@@ -257,8 +257,8 @@ core-open   malfermu
 #core-ords  ords
 
 # KEY              TRANSLATION
-#core-pair          pair
-#core-pairs         pairs
+core-pair          paro
+core-pairs         paroj
 #core-parse-base    parse-base
 core-pass           pasigu
 core-permutations   permutaĵoj
