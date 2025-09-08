@@ -97,11 +97,11 @@ block-without    sen
 constraint-where   kie
 
 # KEY                  TRANSLATION
-#core-abs               abs
-#core-all               all
+core-abs               abs
+core-all               ĉiuj
 #core-antipairs         antipairs
 core-any               ajn
-#core-append            append
+core-append            alpendigu
 #core-ast               ast
 #core-atomic-add-fetch  atomic-add-fetch
 #core-atomic-assign     atomic-assign
@@ -117,7 +117,7 @@ core-await              atendu
 
 # KEY          TRANSLATION
 core-bag       sako
-#core-bail-out  bail-out
+core-bail-out   kaŭciu
 core-bless      benu
 
 # KEY              TRANSLATION
@@ -127,12 +127,12 @@ core-bless      benu
 core-can-ok         povas-bone
 #core-cas           cas
 core-categorize     kategoriigu
-#core-ceiling       ceiling
+core-ceiling       plafono
 #core-chars         chars
 #core-chdir         chdir
 #core-chmod         chmod
-#core-chomp         chomp
-#core-chop          chop
+core-chomp         feĉopiku
+core-chop          ĉopu
 #core-chown         chown
 #core-chr           chr
 #core-chrs          chrs
@@ -143,11 +143,11 @@ core-cmp-ok         kmp-bone
 core-comb           kombu
 core-combinations   kombinaĵoj
 #core-conj          conj
-#core-contains      contains
 core-cross          krucu
+core-contains      entenas
 
 # KEY         TRANSLATION
-#core-decode   decode
+core-decode   malkodu
 core-deepmap   profundmapu
 core-defined   difinita
 #core-diag     diag
@@ -160,9 +160,9 @@ core-duckmap   anasmapu
 
 # KEY               TRANSLATION
 core-elems           eroj
-#core-emit           emit
-#core-encode         encode
 core-end             fino
+core-emit           emisiu
+core-encode         kodu
 #core-ends-with      ends-with
 core-eval-dies-ok   taksi-mortas-bone
 core-eval-lives-ok  taksi-vivas-bone
@@ -176,8 +176,8 @@ core-exit            eliru
 #core-fc            fc
 core-first          unua
 #core-flat          flat
-#core-flip          flip
-#core-floor         floor
+core-flip          renversu
+core-floor         planko
 #core-flunk         flunk
 core-fmt            fmt
 #core-full-barrier  full-barrier
@@ -189,7 +189,7 @@ core-gist   esenco
 core-grep   grepu
 
 # KEY      TRANSLATION
-#core-hash  hash
+core-hash  haketo
 core-head  kapo
 
 # KEY           TRANSLATION
@@ -197,14 +197,14 @@ core-head  kapo
 #core-index      index
 #core-indices    indices
 #core-indir      indir
-#core-invert     invert
+core-invert     interŝanĝu
 core-is          estas
 #core-is-approx  estas-approx
 #core-is-deeply  estas-deeply
 #core-is-prime   estas-prime
 core-isa-ok      isa-bone
-#core-isnt       isnt
-#core-item       item
+core-isnt        neestas
+core-item       aĵo | ajho | ajxo
 
 # KEY      TRANSLATION
 core-join   kunigu
@@ -219,31 +219,32 @@ core-last       lasta
 #core-lastcall  lastcall
 #core-lc        lc
 core-like       simila
-#core-lines     lines
-#core-link      link
 core-list       listo
+core-lines     linioj
+core-link      alligu
+core-unlink    forligu
 core-lives-ok  vivas-bone
 #core-lsb       lsb
 
-# KEY        TRANSLATION
-#core-make    make
-core-map     mapu
+# KEY         TRANSLATION
+core-make     igu
+core-map      mapu
 #core-match   match
-core-max     maks
-core-min     min
-core-minmax  minmaks
-#core-mix     mix
+core-max      maks
+core-min      min
+core-minmax   minmaks
+core-mix      mikso
 #core-mkdir   mkdir
-#core-move    move
+core-move    movu
 #core-msb     msb
 
 # KEY            TRANSLATION
-#core-new         new
+core-new         nova
 #core-next        next
 #core-nextcallee  nextcallee
 #core-nextsame    nextsame
 #core-nextwith    nextwith
-#core-nok         nok
+core-nok         nebone
 core-none         neniu
 core-not          ne
 core-note         notu
@@ -280,7 +281,7 @@ core-reduce       reduktu
 #core-repl        repl
 core-return       resendu
 #core-return-rw   return-rw
-#core-reverse     reverse
+core-reverse     inversigu
 #core-rindex      rindex
 #core-rmdir       rmdir
 core-roll         kubĵetu
@@ -298,7 +299,7 @@ core-say           diru
 #core-set          set
 #core-shell        shell
 #core-shift        shift
-#core-sign         sign
+core-sign          signumo
 #core-signal       signal
 #core-skip         skip
 #core-skip-rest    skip-rest
@@ -357,7 +358,6 @@ core-tail           vosto
 #core-unival    unival
 #core-univals   univals
 core-unlike     malsimila
-#core-unlink    unlink
 #core-unpolar   unpolar
 #core-unshift   unshift
 core-use-ok     uzas-bone
@@ -382,12 +382,12 @@ enum-False               Malvero
 #enum-FileChanged        FileChanged
 #enum-FileRenamed        FileRenamed
 #enum-Kept               Kept
-#enum-Less               Less
+enum-Less                Malplia
 #enum-LittleEndian       LittleEndian
-#enum-More               More
+enum-More                Plia
 #enum-NativeEndian       NativeEndian
 #enum-Planned            Planned
-#enum-Same               Same
+enum-Same                Sama
 #enum-SeekFromBeginning  SeekFromBeginning
 #enum-SeekFromCurrent    SeekFromCurrent
 #enum-SeekFromEnd        SeekFromEnd
@@ -705,10 +705,10 @@ prefix-so    ja
 
 # KEY              TRANSLATION
 routine-method      metodo
-#routine-regex      regex
+routine-regex       regekso | regex
 routine-rule        regulo
 routine-sub         procedo
-routine-submethod  submetodo
+routine-submethod   submetodo
 routine-token       signo
 
 # KEY           TRANSLATION
