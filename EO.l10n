@@ -262,7 +262,7 @@ core-open   malfermu
 #core-parse-base    parse-base
 core-pass           pasigu
 core-permutations   permutaĵoj
-core-pick           elpiku
+core-pick           lotu
 core-plan           planas
 #core-pop           pop
 #core-prepend       prepend
