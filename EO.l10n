@@ -265,7 +265,7 @@ core-permutations   permutaĵoj
 #core-pick          pick
 core-plan           planas
 #core-pop           pop
-#core-prepend       prepend
+core-prepend       elpendigu
 core-print          printu
 core-printf         printfu
 core-proceed       avancu
@@ -462,7 +462,7 @@ multi-only    nur
 #named-absolute  absolute
 #named-actions   actions
 #named-api       api
-#named-append    append
+named-append    alpendiga
 #named-arg0      arg0
 #named-args      args
 #named-as        as
