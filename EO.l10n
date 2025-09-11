@@ -143,8 +143,8 @@ core-cmp-ok         kmp-bone
 core-comb           kombu
 core-combinations   kombinaĵoj
 #core-conj          conj
+core-contains       entenas
 core-cross          krucu
-core-contains      entenas
 
 # KEY         TRANSLATION
 core-decode   malkodu
