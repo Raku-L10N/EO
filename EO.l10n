@@ -270,7 +270,7 @@ core-print          printu
 core-printf         printfu
 core-proceed       avancu
 #core-prompt        prompt
-#core-push          push
+core-push          almetu
 #core-put           put
 
 # KEY            TRANSLATION
