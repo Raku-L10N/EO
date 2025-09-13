@@ -126,7 +126,7 @@ core-bless      benu
 #core-callwith      callwith
 core-can-ok         povas-bone
 #core-cas           cas
-#core-categorize    categorize
+core-categorize     kategoriigu
 core-ceiling       plafono
 #core-chars         chars
 #core-chdir         chdir
@@ -136,15 +136,15 @@ core-chop          ĉopu
 #core-chown         chown
 #core-chr           chr
 #core-chrs          chrs
-#core-classify      classify
+core-classify       klasifiku
 #core-close         close
 core-cmp-ok         kmp-bone
 #core-codes         codes
 core-comb           kombu
 core-combinations   kombinaĵoj
 #core-conj          conj
-core-contains      entenas
-#core-cross         cross
+core-contains       entenas
+core-cross          krucu
 
 # KEY         TRANSLATION
 core-decode   malkodu
@@ -159,10 +159,10 @@ core-done      farita
 core-duckmap   anasmapu
 
 # KEY               TRANSLATION
-#core-elems          elems
+core-elems           eroj
+core-end             fino
 core-emit           emisiu
 core-encode         kodu
-#core-end            end
 #core-ends-with      ends-with
 core-eval-dies-ok   taksi-mortas-bone
 core-eval-lives-ok  taksi-vivas-bone
@@ -179,13 +179,13 @@ core-first          unua
 core-flip          renversu
 core-floor         planko
 #core-flunk         flunk
-#core-fmt           fmt
+core-fmt            fmt
 #core-full-barrier  full-barrier
 
 # KEY      TRANSLATION
 #core-get   get
 #core-getc  getc
-#core-gist  gist
+core-gist   esenco
 core-grep   grepu
 
 # KEY      TRANSLATION
@@ -207,7 +207,7 @@ core-isnt        neestas
 core-item       aĵo | ajho | ajxo
 
 # KEY      TRANSLATION
-#core-join  join
+core-join   kunigu
 
 # KEY      TRANSLATION
 #core-key   key
@@ -219,10 +219,10 @@ core-last       lasta
 #core-lastcall  lastcall
 #core-lc        lc
 core-like       simila
+core-list       listo
 core-lines     linioj
 core-link      alligu
 core-unlink    forligu
-#core-list      list
 core-lives-ok  vivas-bone
 #core-lsb       lsb
 
@@ -262,7 +262,7 @@ core-open   malfermu
 #core-parse-base    parse-base
 core-pass           pasigu
 core-permutations   permutaĵoj
-#core-pick          pick
+core-pick           lotu
 core-plan           planas
 #core-pop           pop
 #core-prepend       prepend
@@ -284,9 +284,9 @@ core-return       resendu
 core-reverse     inversigu
 #core-rindex      rindex
 #core-rmdir       rmdir
-#core-roll        roll
+core-roll         kubĵetu
 #core-roots       roots
-#core-rotate      rotate
+core-rotate       rotaciu
 #core-round       round
 #core-roundrobin  roundrobin
 #core-run         run
@@ -328,7 +328,7 @@ core-sort          ordigu
 #core-substr-rw    substr-rw
 #core-subtest      subtest
 #core-succeed      succeed
-#core-sum          sum
+core-sum           sumigu
 #core-symlink      symlink
 
 # KEY               TRANSLATION
@@ -373,7 +373,7 @@ core-warn       avertu
 #core-words     words
 
 # KEY     TRANSLATION
-#core-zip  zip
+core-zip   zipu
 
 # KEY                   TRANSLATION
 #enum-BigEndian          BigEndian
