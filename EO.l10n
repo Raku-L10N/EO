@@ -264,7 +264,7 @@ core-pass           pasigu
 core-permutations   permutaĵoj
 #core-pick          pick
 core-plan           planas
-core-pop           elmetu
+core-pop           elstakigu
 #core-prepend       prepend
 core-print          printu
 core-printf         printfu
