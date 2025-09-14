@@ -224,7 +224,8 @@ core-lines     linioj
 core-link      alligu
 core-unlink    forligu
 core-lives-ok  vivas-bone
-#core-lsb       lsb
+# Least Significant Bit -> malplej signifa bito/duumo
+core-lsb        mejpezbito | lsb
 
 # KEY         TRANSLATION
 core-make     igu
