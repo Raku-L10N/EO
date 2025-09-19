@@ -150,7 +150,7 @@ core-cross          krucu
 core-decode   malkodu
 core-deepmap   profundmapu
 core-defined   difinita
-#core-diag     diag
+core-diag     diagumu
 core-die       mortu
 core-dies-ok   mortas-bone
 #core-dir      dir
