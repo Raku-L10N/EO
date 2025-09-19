@@ -5,13 +5,17 @@
 #
 # See https://github.com/Raku-L10N/L10N/ for more information
 
+# Note pc stands for postcircumfix
 # KEY             TRANSLATION
-adverb-pc-delete   forstreku
-adverb-pc-exists   ekzistas
-#adverb-pc-k       k
-#adverb-pc-kv      kv
-#adverb-pc-p       p
-#adverb-pc-v       v
+adverb-pc-delete   for
+adverb-pc-exists   ĉu | chu | cxu
+# Note "k" stands for key
+adverb-pc-k       kia
+# Note "kv" stands for "key-value (enlisted together)"
+adverb-pc-kv      ane 
+# Note "p" stands for "pair (of index/key and the value of the element)"
+adverb-pc-p       ope 
+adverb-pc-v       ere
 
 # KEY                TRANSLATION
 #adverb-q-a           a
@@ -36,8 +40,8 @@ adverb-pc-exists   ekzistas
 #adverb-q-scalar      scalar
 #adverb-q-single      single
 #adverb-q-to          to
-#adverb-q-v           v
-#adverb-q-val         val
+adverb-q-v            ere
+adverb-q-val          valorige
 #adverb-q-w           w
 #adverb-q-words       words
 #adverb-q-ww          ww
@@ -210,9 +214,9 @@ core-item       aĵo | ajho | ajxo
 core-join   kunigu
 
 # KEY      TRANSLATION
-#core-key   key
-#core-keys  keys
-#core-kv    kv
+core-key   kia
+core-keys  kiaj
+core-kv    ane
 
 # KEY          TRANSLATION
 core-last       lasta
@@ -363,9 +367,10 @@ core-unlike     malsimila
 core-use-ok     uzas-bone
 
 # KEY        TRANSLATION
-#core-val     val
-#core-value   value
-#core-values  values
+# NT: no cor-v apparently
+core-val     ere
+core-value   valorige
+core-values  ervice
 
 # KEY          TRANSLATION
 core-warn       avertu
@@ -540,9 +545,12 @@ multi-only    nur
 #named-joiner  joiner
 
 # KEY      TRANSLATION
-#named-k    k
-#named-key  key
-#named-kv   kv
+# used in grep, without use of named-key alternative form
+named-k    kia
+# used in Pair, without use of named-k alternative form
+named-key  kia
+# used in grep, without use of named-key-value alternative form
+named-kv   ane
 
 # KEY            TRANSLATION
 #named-listen     listen
@@ -626,8 +634,8 @@ multi-only    nur
 #named-update  update
 
 # KEY          TRANSLATION
-#named-v        v
-#named-value    value
+named-v        ere
+named-value    valorige
 #named-vent-at  vent-at
 #named-ver      ver
 #named-volume   volume
