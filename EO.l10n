@@ -274,7 +274,7 @@ core-proceed       avancu
 core-put           metu
 
 # KEY            TRANSLATION
-#core-rand        rand
+core-rand        hazardigu
 core-redo         refaru
 core-reduce       reduktu
 #core-repeated    repeated
