@@ -278,7 +278,7 @@ core-put           metu
 core-redo         refaru
 core-reduce       reduktu
 #core-repeated    repeated
-#core-repl        repl
+core-repl        repl
 core-return       resendu
 #core-return-rw   return-rw
 core-reverse     inversigu
