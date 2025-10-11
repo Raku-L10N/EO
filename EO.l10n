@@ -277,7 +277,7 @@ core-put           metu
 #core-rand        rand
 core-redo         refaru
 core-reduce       reduktu
-#core-repeated    repeated
+core-repeated    ripetita
 #core-repl        repl
 core-return       resendu
 #core-return-rw   return-rw
